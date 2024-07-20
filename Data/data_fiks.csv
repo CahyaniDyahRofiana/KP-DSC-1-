@@ -1,0 +1,1334 @@
+tanggal,komoditas_normalisasi,commodity,kategori_kota,harga_rata_rata,harga_terendah,harga_tertinggi
+2024-01-01,Bawang Merah,Shallot,Bandung,41666.67,35000,45000
+2024-01-02,Bawang Merah,Shallot,Bandung,41666.67,35000,45000
+2024-01-03,Bawang Merah,Shallot,Bandung,41666.67,35000,45000
+2024-01-04,Bawang Merah,Shallot,Bandung,41666.67,35000,45000
+2024-01-05,Bawang Merah,Shallot,Bandung,41666.67,35000,45000
+2024-01-08,Bawang Merah,Shallot,Bandung,41666.67,35000,45000
+2024-01-09,Bawang Merah,Shallot,Bandung,41666.67,35000,45000
+2024-01-10,Bawang Merah,Shallot,Bandung,35000,35000,35000
+2024-01-11,Bawang Merah,Shallot,Bandung,41666.67,35000,45000
+2024-01-12,Bawang Merah,Shallot,Bandung,41666.67,35000,45000
+2024-01-15,Bawang Merah,Shallot,Bandung,41666.67,35000,45000
+2024-01-16,Bawang Merah,Shallot,Bandung,41666.67,35000,45000
+2024-01-17,Bawang Merah,Shallot,Bandung,41666.67,35000,45000
+2024-01-18,Bawang Merah,Shallot,Bandung,41666.67,35000,45000
+2024-01-19,Bawang Merah,Shallot,Bandung,41666.67,35000,45000
+2024-01-22,Bawang Merah,Shallot,Bandung,41666.67,35000,45000
+2024-01-23,Bawang Merah,Shallot,Bandung,41666.67,35000,45000
+2024-01-24,Bawang Merah,Shallot,Bandung,41666.67,35000,45000
+2024-01-25,Bawang Merah,Shallot,Bandung,40000,35000,42500
+2024-01-26,Bawang Merah,Shallot,Bandung,40000,35000,42500
+2024-01-29,Bawang Merah,Shallot,Bandung,40000,35000,42500
+2024-01-30,Bawang Merah,Shallot,Bandung,40000,35000,42500
+2024-01-31,Bawang Merah,Shallot,Bandung,40000,35000,42500
+2024-02-01,Bawang Merah,Shallot,Bandung,40000,35000,42500
+2024-02-02,Bawang Merah,Shallot,Bandung,40000,35000,42500
+2024-02-05,Bawang Merah,Shallot,Bandung,40000,35000,42500
+2024-02-06,Bawang Merah,Shallot,Bandung,40000,35000,42500
+2024-02-07,Bawang Merah,Shallot,Bandung,40000,35000,42500
+2024-02-08,Bawang Merah,Shallot,Bandung,40000,35000,42500
+2024-02-09,Bawang Merah,Shallot,Bandung,40000,35000,42500
+2024-02-12,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-02-13,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-02-14,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-02-15,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-02-16,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-02-19,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-02-20,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-02-21,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-02-22,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-02-23,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-02-26,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-02-27,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-02-28,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-02-29,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-03-01,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-03-04,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-03-05,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-03-06,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-03-07,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-03-08,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-03-11,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-03-12,Bawang Merah,Shallot,Bandung,38333.33,35000,40000
+2024-03-13,Bawang Merah,Shallot,Bandung,40000,35000,42500
+2024-03-14,Bawang Merah,Shallot,Bandung,40000,35000,42500
+2024-03-15,Bawang Merah,Shallot,Bandung,40000,35000,42500
+2024-03-18,Bawang Merah,Shallot,Bandung,40000,35000,42500
+2024-03-19,Bawang Merah,Shallot,Bandung,40000,35000,42500
+2024-03-20,Bawang Merah,Shallot,Bandung,41666.67,40000,42500
+2024-03-21,Bawang Merah,Shallot,Bandung,41666.67,40000,42500
+2024-03-22,Bawang Merah,Shallot,Bandung,41666.67,40000,42500
+2024-03-25,Bawang Merah,Shallot,Bandung,43000,40000,44500
+2024-03-26,Bawang Merah,Shallot,Bandung,43000,40000,44500
+2024-03-27,Bawang Merah,Shallot,Bandung,43000,40000,44500
+2024-03-28,Bawang Merah,Shallot,Bandung,43000,40000,44500
+2024-03-29,Bawang Merah,Shallot,Bandung,43000,40000,44500
+2024-04-01,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-04-02,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-04-03,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-04-04,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-04-05,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-04-08,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-04-09,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-04-10,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-04-11,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-04-12,Bawang Merah,Shallot,Bandung,50850,50850,50850
+2024-04-15,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-04-16,Bawang Merah,Shallot,Bandung,45000,40000,47500
+2024-04-17,Bawang Merah,Shallot,Bandung,46666.67,45000,47500
+2024-04-18,Bawang Merah,Shallot,Bandung,46666.67,45000,47500
+2024-04-19,Bawang Merah,Shallot,Bandung,46666.67,45000,47500
+2024-04-22,Bawang Merah,Shallot,Bandung,46666.67,45000,47500
+2024-04-23,Bawang Merah,Shallot,Bandung,46666.67,45000,47500
+2024-04-24,Bawang Merah,Shallot,Bandung,45000,45000,45000
+2024-04-25,Bawang Merah,Shallot,Bandung,46666.67,45000,47500
+2024-04-26,Bawang Merah,Shallot,Bandung,46666.67,45000,47500
+2024-04-29,Bawang Merah,Shallot,Bandung,46666.67,45000,47500
+2024-04-30,Bawang Merah,Shallot,Bandung,46666.67,45000,47500
+2024-05-01,Bawang Merah,Shallot,Bandung,46666.67,45000,47500
+2024-05-02,Bawang Merah,Shallot,Bandung,48333.33,45000,50000
+2024-05-03,Bawang Merah,Shallot,Bandung,48333.33,45000,50000
+2024-05-06,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-05-07,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-05-08,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-05-09,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-05-10,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-05-13,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-05-14,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-05-15,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-05-16,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-05-17,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-05-20,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-05-21,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-05-22,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-05-23,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-05-24,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-05-27,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-05-28,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-05-29,Bawang Merah,Shallot,Bandung,45000,45000,45000
+2024-05-30,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-05-31,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-06-03,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-06-04,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-06-05,Bawang Merah,Shallot,Bandung,45000,45000,45000
+2024-06-06,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-06-07,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-06-10,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-06-11,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-06-12,Bawang Merah,Shallot,Bandung,45000,45000,45000
+2024-06-13,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-06-14,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-06-17,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-06-18,Bawang Merah,Shallot,Bandung,47666.67,45000,49000
+2024-06-19,Bawang Merah,Shallot,Bandung,45000,45000,45000
+2024-06-20,Bawang Merah,Shallot,Bandung,40000,40000,40000
+2024-06-21,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-06-24,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-06-25,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-06-26,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-06-27,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-06-28,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-07-01,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-07-02,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-07-03,Bawang Merah,Shallot,Bandung,40000,40000,40000
+2024-07-04,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-07-05,Bawang Merah,Shallot,Bandung,43333.33,40000,45000
+2024-07-08,Bawang Merah,Shallot,Bandung,54950,54950,54950
+2024-01-01,Bawang Merah,Shallot,Jabodetabek,41840.43,38000,45000
+2024-01-02,Bawang Merah,Shallot,Jabodetabek,42562.5,40000,45000
+2024-01-03,Bawang Merah,Shallot,Jabodetabek,42552.63,40000,45000
+2024-01-04,Bawang Merah,Shallot,Jabodetabek,42324.07,40000,45000
+2024-01-05,Bawang Merah,Shallot,Jabodetabek,42463.64,40000,45000
+2024-01-06,Bawang Merah,Shallot,Jabodetabek,42227.27,40000,45000
+2024-01-07,Bawang Merah,Shallot,Jabodetabek,41454.55,38000,45000
+2024-01-08,Bawang Merah,Shallot,Jabodetabek,45369.23,40000,51200
+2024-01-09,Bawang Merah,Shallot,Jabodetabek,42324.56,40000,45000
+2024-01-10,Bawang Merah,Shallot,Jabodetabek,41424.53,38000,45000
+2024-01-11,Bawang Merah,Shallot,Jabodetabek,40482.76,35000,45000
+2024-01-12,Bawang Merah,Shallot,Jabodetabek,39927.27,35000,45000
+2024-01-13,Bawang Merah,Shallot,Jabodetabek,38088.89,35000,40000
+2024-01-14,Bawang Merah,Shallot,Jabodetabek,38162.79,35000,40000
+2024-01-15,Bawang Merah,Shallot,Jabodetabek,38284.48,35000,41000
+2024-01-16,Bawang Merah,Shallot,Jabodetabek,39886.79,35000,45000
+2024-01-17,Bawang Merah,Shallot,Jabodetabek,38446.43,35000,41000
+2024-01-18,Bawang Merah,Shallot,Jabodetabek,38710.53,35000,42500
+2024-01-19,Bawang Merah,Shallot,Jabodetabek,39236.84,35000,45000
+2024-01-20,Bawang Merah,Shallot,Jabodetabek,37450,35000,40000
+2024-01-21,Bawang Merah,Shallot,Jabodetabek,37404.76,35000,40000
+2024-01-22,Bawang Merah,Shallot,Jabodetabek,38445.45,35000,42500
+2024-01-23,Bawang Merah,Shallot,Jabodetabek,38086.21,35000,41000
+2024-01-24,Bawang Merah,Shallot,Jabodetabek,38155.17,35000,41000
+2024-01-25,Bawang Merah,Shallot,Jabodetabek,38342.11,35000,42500
+2024-01-26,Bawang Merah,Shallot,Jabodetabek,37661.02,35000,40000
+2024-01-27,Bawang Merah,Shallot,Jabodetabek,37209.3,35000,40000
+2024-01-28,Bawang Merah,Shallot,Jabodetabek,37250,35000,40000
+2024-01-29,Bawang Merah,Shallot,Jabodetabek,38250,35000,41000
+2024-01-30,Bawang Merah,Shallot,Jabodetabek,38377.19,35000,42500
+2024-01-31,Bawang Merah,Shallot,Jabodetabek,38454.55,35000,42500
+2024-02-01,Bawang Merah,Shallot,Jabodetabek,38421.05,35000,42500
+2024-02-02,Bawang Merah,Shallot,Jabodetabek,38508.77,35000,42500
+2024-02-03,Bawang Merah,Shallot,Jabodetabek,36409.09,32000,40000
+2024-02-04,Bawang Merah,Shallot,Jabodetabek,37333.33,35000,40000
+2024-02-05,Bawang Merah,Shallot,Jabodetabek,38118.18,35000,41000
+2024-02-06,Bawang Merah,Shallot,Jabodetabek,38660.71,35000,42500
+2024-02-07,Bawang Merah,Shallot,Jabodetabek,38096.49,35000,41000
+2024-02-08,Bawang Merah,Shallot,Jabodetabek,46061.54,41000,51200
+2024-02-09,Bawang Merah,Shallot,Jabodetabek,37915.09,35000,40000
+2024-02-10,Bawang Merah,Shallot,Jabodetabek,37641.03,35000,40000
+2024-02-11,Bawang Merah,Shallot,Jabodetabek,37256.41,35000,40000
+2024-02-12,Bawang Merah,Shallot,Jabodetabek,38075.47,35000,40000
+2024-02-13,Bawang Merah,Shallot,Jabodetabek,38054.55,35000,40000
+2024-02-14,Bawang Merah,Shallot,Jabodetabek,38148.94,35000,40000
+2024-02-15,Bawang Merah,Shallot,Jabodetabek,37981.48,35000,40000
+2024-02-16,Bawang Merah,Shallot,Jabodetabek,38160.71,35000,40000
+2024-02-17,Bawang Merah,Shallot,Jabodetabek,37439.02,35000,40000
+2024-02-18,Bawang Merah,Shallot,Jabodetabek,37439.02,35000,40000
+2024-02-19,Bawang Merah,Shallot,Jabodetabek,38754.55,35000,42500
+2024-02-20,Bawang Merah,Shallot,Jabodetabek,39587.72,35000,45000
+2024-02-21,Bawang Merah,Shallot,Jabodetabek,39535.09,35000,45000
+2024-02-22,Bawang Merah,Shallot,Jabodetabek,39900,35000,45000
+2024-02-23,Bawang Merah,Shallot,Jabodetabek,39627.27,35000,45000
+2024-02-24,Bawang Merah,Shallot,Jabodetabek,38069.77,35000,40000
+2024-02-25,Bawang Merah,Shallot,Jabodetabek,38348.84,35000,40000
+2024-02-26,Bawang Merah,Shallot,Jabodetabek,39937.5,35000,45000
+2024-02-27,Bawang Merah,Shallot,Jabodetabek,39517.24,36000,42500
+2024-02-28,Bawang Merah,Shallot,Jabodetabek,40061.4,36000,45000
+2024-02-29,Bawang Merah,Shallot,Jabodetabek,40131.58,36000,45000
+2024-03-01,Bawang Merah,Shallot,Jabodetabek,39848.21,35000,45000
+2024-03-02,Bawang Merah,Shallot,Jabodetabek,37595.24,35000,40000
+2024-03-03,Bawang Merah,Shallot,Jabodetabek,37714.29,35000,40000
+2024-03-04,Bawang Merah,Shallot,Jabodetabek,39964.29,35000,45000
+2024-03-05,Bawang Merah,Shallot,Jabodetabek,38972.22,35000,42500
+2024-03-06,Bawang Merah,Shallot,Jabodetabek,38309.09,35000,40000
+2024-03-07,Bawang Merah,Shallot,Jabodetabek,38129.63,35000,40000
+2024-03-08,Bawang Merah,Shallot,Jabodetabek,45138.46,38000,51200
+2024-03-09,Bawang Merah,Shallot,Jabodetabek,37926.83,35000,40000
+2024-03-10,Bawang Merah,Shallot,Jabodetabek,37815.79,35000,40000
+2024-03-11,Bawang Merah,Shallot,Jabodetabek,38377.36,35000,40000
+2024-03-12,Bawang Merah,Shallot,Jabodetabek,38283.02,35000,40000
+2024-03-13,Bawang Merah,Shallot,Jabodetabek,39127.27,35000,42500
+2024-03-14,Bawang Merah,Shallot,Jabodetabek,40000,35000,45000
+2024-03-15,Bawang Merah,Shallot,Jabodetabek,40157.89,36000,45000
+2024-03-16,Bawang Merah,Shallot,Jabodetabek,38225,35000,40000
+2024-03-17,Bawang Merah,Shallot,Jabodetabek,38261.9,35000,40000
+2024-03-18,Bawang Merah,Shallot,Jabodetabek,40947.37,38000,45000
+2024-03-19,Bawang Merah,Shallot,Jabodetabek,39722.22,36500,42500
+2024-03-20,Bawang Merah,Shallot,Jabodetabek,40981.13,38000,45000
+2024-03-21,Bawang Merah,Shallot,Jabodetabek,40303.57,36000,45000
+2024-03-22,Bawang Merah,Shallot,Jabodetabek,40910.71,38000,45000
+2024-03-23,Bawang Merah,Shallot,Jabodetabek,38268.29,35000,40000
+2024-03-24,Bawang Merah,Shallot,Jabodetabek,38317.07,35000,40000
+2024-03-25,Bawang Merah,Shallot,Jabodetabek,41464.29,38000,45000
+2024-03-26,Bawang Merah,Shallot,Jabodetabek,41148.15,38000,45000
+2024-03-27,Bawang Merah,Shallot,Jabodetabek,41370.37,38000,45000
+2024-03-28,Bawang Merah,Shallot,Jabodetabek,41230.77,36000,45000
+2024-03-29,Bawang Merah,Shallot,Jabodetabek,42000,39000,45000
+2024-03-30,Bawang Merah,Shallot,Jabodetabek,41051.28,36000,45000
+2024-03-31,Bawang Merah,Shallot,Jabodetabek,42625,40000,45000
+2024-04-01,Bawang Merah,Shallot,Jabodetabek,44394.23,40000,49000
+2024-04-02,Bawang Merah,Shallot,Jabodetabek,45462.96,40000,50000
+2024-04-03,Bawang Merah,Shallot,Jabodetabek,45720.93,40000,50000
+2024-04-04,Bawang Merah,Shallot,Jabodetabek,45490.2,40000,50000
+2024-04-05,Bawang Merah,Shallot,Jabodetabek,45641.51,40000,50000
+2024-04-06,Bawang Merah,Shallot,Jabodetabek,45175,40000,50000
+2024-04-07,Bawang Merah,Shallot,Jabodetabek,45175,40000,50000
+2024-04-08,Bawang Merah,Shallot,Jabodetabek,49061.54,44500,53200
+2024-04-09,Bawang Merah,Shallot,Jabodetabek,49061.54,44500,53200
+2024-04-10,Bawang Merah,Shallot,Jabodetabek,49061.54,44500,53200
+2024-04-11,Bawang Merah,Shallot,Jabodetabek,49061.54,44500,53200
+2024-04-12,Bawang Merah,Shallot,Jabodetabek,46875,44000,50000
+2024-04-13,Bawang Merah,Shallot,Jabodetabek,45425,40000,50000
+2024-04-14,Bawang Merah,Shallot,Jabodetabek,45414.63,40000,50000
+2024-04-15,Bawang Merah,Shallot,Jabodetabek,46907.41,44000,50000
+2024-04-16,Bawang Merah,Shallot,Jabodetabek,47698.11,44000,52500
+2024-04-17,Bawang Merah,Shallot,Jabodetabek,47948.28,45000,52500
+2024-04-18,Bawang Merah,Shallot,Jabodetabek,60144.55,45500,75000
+2024-04-19,Bawang Merah,Shallot,Jabodetabek,56535.45,45000,70000
+2024-04-20,Bawang Merah,Shallot,Jabodetabek,57658.54,45000,70000
+2024-04-21,Bawang Merah,Shallot,Jabodetabek,57000,45000,70000
+2024-04-22,Bawang Merah,Shallot,Jabodetabek,50892.31,45500,55000
+2024-04-23,Bawang Merah,Shallot,Jabodetabek,63160.26,53200,70000
+2024-04-24,Bawang Merah,Shallot,Jabodetabek,64605.41,52500,75000
+2024-04-25,Bawang Merah,Shallot,Jabodetabek,66106.1,55000,75000
+2024-04-26,Bawang Merah,Shallot,Jabodetabek,65233.75,53900,75000
+2024-04-27,Bawang Merah,Shallot,Jabodetabek,68541.67,60000,75000
+2024-04-28,Bawang Merah,Shallot,Jabodetabek,69629.63,65000,75000
+2024-04-29,Bawang Merah,Shallot,Jabodetabek,63142.68,55000,70000
+2024-04-30,Bawang Merah,Shallot,Jabodetabek,63386.59,55000,70000
+2024-05-01,Bawang Merah,Shallot,Jabodetabek,62732.89,55000,70000
+2024-05-02,Bawang Merah,Shallot,Jabodetabek,62377.38,55000,70000
+2024-05-03,Bawang Merah,Shallot,Jabodetabek,61898.81,53900,70000
+2024-05-04,Bawang Merah,Shallot,Jabodetabek,65153.85,57000,70000
+2024-05-05,Bawang Merah,Shallot,Jabodetabek,64763.6,57000,70000
+2024-05-06,Bawang Merah,Shallot,Jabodetabek,58312.79,50000,65000
+2024-05-07,Bawang Merah,Shallot,Jabodetabek,58183.7,50000,65000
+2024-05-08,Bawang Merah,Shallot,Jabodetabek,51884.62,45000,57500
+2024-05-09,Bawang Merah,Shallot,Jabodetabek,56772.62,50000,62500
+2024-05-10,Bawang Merah,Shallot,Jabodetabek,55684.88,50000,60000
+2024-05-11,Bawang Merah,Shallot,Jabodetabek,58500,50000,65000
+2024-05-12,Bawang Merah,Shallot,Jabodetabek,57586.21,55000,60000
+2024-05-13,Bawang Merah,Shallot,Jabodetabek,55585.87,50000,60000
+2024-05-14,Bawang Merah,Shallot,Jabodetabek,55462.22,50000,60000
+2024-05-15,Bawang Merah,Shallot,Jabodetabek,55551.11,50000,60000
+2024-05-16,Bawang Merah,Shallot,Jabodetabek,55766.67,50000,60000
+2024-05-17,Bawang Merah,Shallot,Jabodetabek,55597.73,50000,60000
+2024-05-18,Bawang Merah,Shallot,Jabodetabek,56406.25,50000,60000
+2024-05-19,Bawang Merah,Shallot,Jabodetabek,56964.29,50000,60000
+2024-05-20,Bawang Merah,Shallot,Jabodetabek,55940,50000,60000
+2024-05-21,Bawang Merah,Shallot,Jabodetabek,56206.67,50000,60000
+2024-05-22,Bawang Merah,Shallot,Jabodetabek,55913.95,50000,60000
+2024-05-23,Bawang Merah,Shallot,Jabodetabek,55941.3,50000,60000
+2024-05-24,Bawang Merah,Shallot,Jabodetabek,56097.73,50000,60000
+2024-05-25,Bawang Merah,Shallot,Jabodetabek,58100,55000,60000
+2024-05-26,Bawang Merah,Shallot,Jabodetabek,58161.29,55000,60000
+2024-05-27,Bawang Merah,Shallot,Jabodetabek,55184.44,50000,60000
+2024-05-28,Bawang Merah,Shallot,Jabodetabek,54369.32,50000,59950
+2024-05-29,Bawang Merah,Shallot,Jabodetabek,53705.13,50000,57500
+2024-05-30,Bawang Merah,Shallot,Jabodetabek,53839.36,50000,57500
+2024-05-31,Bawang Merah,Shallot,Jabodetabek,52859.3,50000,55000
+2024-06-01,Bawang Merah,Shallot,Jabodetabek,52258.06,50000,55000
+2024-06-02,Bawang Merah,Shallot,Jabodetabek,54125,50000,60000
+2024-06-03,Bawang Merah,Shallot,Jabodetabek,52248.91,50000,55000
+2024-06-04,Bawang Merah,Shallot,Jabodetabek,51704.9,48000,55000
+2024-06-05,Bawang Merah,Shallot,Jabodetabek,49532.61,45000,55000
+2024-06-06,Bawang Merah,Shallot,Jabodetabek,48996.94,45000,53200
+2024-06-07,Bawang Merah,Shallot,Jabodetabek,49148.91,45000,53200
+2024-06-09,Bawang Merah,Shallot,Jabodetabek,47848.48,45000,50000
+2024-06-10,Bawang Merah,Shallot,Jabodetabek,48975,45000,52750
+2024-06-11,Bawang Merah,Shallot,Jabodetabek,48914.29,45000,52750
+2024-06-12,Bawang Merah,Shallot,Jabodetabek,47512.5,45000,50000
+2024-06-13,Bawang Merah,Shallot,Jabodetabek,49086.25,44000,55000
+2024-06-14,Bawang Merah,Shallot,Jabodetabek,49169.74,44000,55000
+2024-06-15,Bawang Merah,Shallot,Jabodetabek,47130.43,44000,50000
+2024-06-16,Bawang Merah,Shallot,Jabodetabek,47800,45000,50000
+2024-06-17,Bawang Merah,Shallot,Jabodetabek,49559.09,45000,55000
+2024-06-18,Bawang Merah,Shallot,Jabodetabek,48435.71,44000,53200
+2024-06-19,Bawang Merah,Shallot,Jabodetabek,47388.89,43000,50000
+2024-06-20,Bawang Merah,Shallot,Jabodetabek,46985.71,42500,50000
+2024-06-21,Bawang Merah,Shallot,Jabodetabek,47125,43000,50000
+2024-06-22,Bawang Merah,Shallot,Jabodetabek,47185.19,44000,50000
+2024-06-23,Bawang Merah,Shallot,Jabodetabek,46291.67,40000,50000
+2024-06-24,Bawang Merah,Shallot,Jabodetabek,45737.5,40000,50000
+2024-06-25,Bawang Merah,Shallot,Jabodetabek,45475.61,40000,50000
+2024-06-26,Bawang Merah,Shallot,Jabodetabek,45465.91,40000,50000
+2024-06-27,Bawang Merah,Shallot,Jabodetabek,44914.63,40000,50000
+2024-06-28,Bawang Merah,Shallot,Jabodetabek,44914.63,40000,50000
+2024-06-29,Bawang Merah,Shallot,Jabodetabek,42360,40000,45000
+2024-06-30,Bawang Merah,Shallot,Jabodetabek,42740.74,40000,45000
+2024-07-01,Bawang Merah,Shallot,Jabodetabek,45348.84,40000,50000
+2024-07-02,Bawang Merah,Shallot,Jabodetabek,44302.33,40000,50000
+2024-07-03,Bawang Merah,Shallot,Jabodetabek,43026.32,40000,47500
+2024-07-04,Bawang Merah,Shallot,Jabodetabek,43562.5,39000,50000
+2024-07-05,Bawang Merah,Shallot,Jabodetabek,43619.05,39000,50000
+2024-07-06,Bawang Merah,Shallot,Jabodetabek,40296.3,35000,45000
+2024-07-07,Bawang Merah,Shallot,Jabodetabek,41300,37000,45000
+2024-07-08,Bawang Merah,Shallot,Jabodetabek,55800,53200,57100
+2024-01-01,Cabai Merah Keriting,Curly Chilies,Bandung,78333.33,75000,80000
+2024-01-02,Cabai Merah Keriting,Curly Chilies,Bandung,93333.33,80000,100000
+2024-01-03,Cabai Merah Keriting,Curly Chilies,Bandung,93333.33,80000,100000
+2024-01-04,Cabai Merah Keriting,Curly Chilies,Bandung,93333.33,80000,100000
+2024-01-05,Cabai Merah Keriting,Curly Chilies,Bandung,95000,85000,100000
+2024-01-08,Cabai Merah Keriting,Curly Chilies,Bandung,85000,85000,85000
+2024-01-09,Cabai Merah Keriting,Curly Chilies,Bandung,81666.67,75000,85000
+2024-01-10,Cabai Merah Keriting,Curly Chilies,Bandung,75000,75000,75000
+2024-01-11,Cabai Merah Keriting,Curly Chilies,Bandung,81666.67,75000,85000
+2024-01-12,Cabai Merah Keriting,Curly Chilies,Bandung,80000,70000,85000
+2024-01-15,Cabai Merah Keriting,Curly Chilies,Bandung,83333.33,70000,90000
+2024-01-16,Cabai Merah Keriting,Curly Chilies,Bandung,83333.33,70000,90000
+2024-01-17,Cabai Merah Keriting,Curly Chilies,Bandung,83333.33,70000,90000
+2024-01-18,Cabai Merah Keriting,Curly Chilies,Bandung,83333.33,70000,90000
+2024-01-19,Cabai Merah Keriting,Curly Chilies,Bandung,80000,70000,85000
+2024-01-22,Cabai Merah Keriting,Curly Chilies,Bandung,80000,70000,85000
+2024-01-23,Cabai Merah Keriting,Curly Chilies,Bandung,81666.67,75000,85000
+2024-01-24,Cabai Merah Keriting,Curly Chilies,Bandung,81666.67,75000,85000
+2024-01-25,Cabai Merah Keriting,Curly Chilies,Bandung,78333.33,75000,80000
+2024-01-26,Cabai Merah Keriting,Curly Chilies,Bandung,78333.33,75000,80000
+2024-01-29,Cabai Merah Keriting,Curly Chilies,Bandung,78333.33,75000,80000
+2024-01-30,Cabai Merah Keriting,Curly Chilies,Bandung,78333.33,75000,80000
+2024-01-31,Cabai Merah Keriting,Curly Chilies,Bandung,78333.33,75000,80000
+2024-02-01,Cabai Merah Keriting,Curly Chilies,Bandung,78333.33,75000,80000
+2024-02-02,Cabai Merah Keriting,Curly Chilies,Bandung,78333.33,75000,80000
+2024-02-05,Cabai Merah Keriting,Curly Chilies,Bandung,80000,80000,80000
+2024-02-06,Cabai Merah Keriting,Curly Chilies,Bandung,85000,85000,85000
+2024-02-07,Cabai Merah Keriting,Curly Chilies,Bandung,91666.67,85000,95000
+2024-02-08,Cabai Merah Keriting,Curly Chilies,Bandung,91666.67,85000,95000
+2024-02-09,Cabai Merah Keriting,Curly Chilies,Bandung,91666.67,85000,95000
+2024-02-12,Cabai Merah Keriting,Curly Chilies,Bandung,91666.67,85000,95000
+2024-02-13,Cabai Merah Keriting,Curly Chilies,Bandung,91666.67,85000,95000
+2024-02-14,Cabai Merah Keriting,Curly Chilies,Bandung,91666.67,85000,95000
+2024-02-15,Cabai Merah Keriting,Curly Chilies,Bandung,91666.67,85000,95000
+2024-02-16,Cabai Merah Keriting,Curly Chilies,Bandung,91666.67,85000,95000
+2024-02-19,Cabai Merah Keriting,Curly Chilies,Bandung,91666.67,85000,95000
+2024-02-20,Cabai Merah Keriting,Curly Chilies,Bandung,91666.67,85000,95000
+2024-02-21,Cabai Merah Keriting,Curly Chilies,Bandung,91666.67,85000,95000
+2024-02-22,Cabai Merah Keriting,Curly Chilies,Bandung,93333.33,90000,95000
+2024-02-23,Cabai Merah Keriting,Curly Chilies,Bandung,93333.33,90000,95000
+2024-02-26,Cabai Merah Keriting,Curly Chilies,Bandung,93333.33,90000,95000
+2024-02-27,Cabai Merah Keriting,Curly Chilies,Bandung,93333.33,90000,95000
+2024-02-28,Cabai Merah Keriting,Curly Chilies,Bandung,93333.33,90000,95000
+2024-02-29,Cabai Merah Keriting,Curly Chilies,Bandung,90000,80000,95000
+2024-03-01,Cabai Merah Keriting,Curly Chilies,Bandung,90000,80000,95000
+2024-03-04,Cabai Merah Keriting,Curly Chilies,Bandung,90000,80000,95000
+2024-03-05,Cabai Merah Keriting,Curly Chilies,Bandung,90000,80000,95000
+2024-03-06,Cabai Merah Keriting,Curly Chilies,Bandung,90000,80000,95000
+2024-03-07,Cabai Merah Keriting,Curly Chilies,Bandung,86666.67,80000,90000
+2024-03-08,Cabai Merah Keriting,Curly Chilies,Bandung,88333.33,85000,90000
+2024-03-11,Cabai Merah Keriting,Curly Chilies,Bandung,88333.33,85000,90000
+2024-03-12,Cabai Merah Keriting,Curly Chilies,Bandung,88333.33,85000,90000
+2024-03-13,Cabai Merah Keriting,Curly Chilies,Bandung,103333.33,100000,105000
+2024-03-14,Cabai Merah Keriting,Curly Chilies,Bandung,103333.33,100000,105000
+2024-03-15,Cabai Merah Keriting,Curly Chilies,Bandung,106666.67,100000,110000
+2024-03-18,Cabai Merah Keriting,Curly Chilies,Bandung,86666.67,80000,90000
+2024-03-19,Cabai Merah Keriting,Curly Chilies,Bandung,83333.33,70000,90000
+2024-03-20,Cabai Merah Keriting,Curly Chilies,Bandung,76666.67,70000,80000
+2024-03-21,Cabai Merah Keriting,Curly Chilies,Bandung,68333.33,65000,70000
+2024-03-22,Cabai Merah Keriting,Curly Chilies,Bandung,68333.33,65000,70000
+2024-03-25,Cabai Merah Keriting,Curly Chilies,Bandung,63333.33,60000,65000
+2024-03-26,Cabai Merah Keriting,Curly Chilies,Bandung,63333.33,60000,65000
+2024-03-27,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-03-28,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-03-29,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-04-01,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-04-02,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-04-03,Cabai Merah Keriting,Curly Chilies,Bandung,63333.33,60000,65000
+2024-04-04,Cabai Merah Keriting,Curly Chilies,Bandung,63333.33,60000,65000
+2024-04-05,Cabai Merah Keriting,Curly Chilies,Bandung,71666.67,65000,75000
+2024-04-08,Cabai Merah Keriting,Curly Chilies,Bandung,71666.67,65000,75000
+2024-04-09,Cabai Merah Keriting,Curly Chilies,Bandung,71666.67,65000,75000
+2024-04-10,Cabai Merah Keriting,Curly Chilies,Bandung,71666.67,65000,75000
+2024-04-11,Cabai Merah Keriting,Curly Chilies,Bandung,71666.67,65000,75000
+2024-04-12,Cabai Merah Keriting,Curly Chilies,Bandung,122200,122200,122200
+2024-04-15,Cabai Merah Keriting,Curly Chilies,Bandung,71666.67,65000,75000
+2024-04-16,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-04-17,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-04-18,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-04-19,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-04-22,Cabai Merah Keriting,Curly Chilies,Bandung,55000,55000,55000
+2024-04-23,Cabai Merah Keriting,Curly Chilies,Bandung,55000,55000,55000
+2024-04-24,Cabai Merah Keriting,Curly Chilies,Bandung,55000,55000,55000
+2024-04-25,Cabai Merah Keriting,Curly Chilies,Bandung,58333.33,55000,60000
+2024-04-26,Cabai Merah Keriting,Curly Chilies,Bandung,56666.67,50000,60000
+2024-04-29,Cabai Merah Keriting,Curly Chilies,Bandung,56666.67,50000,60000
+2024-04-30,Cabai Merah Keriting,Curly Chilies,Bandung,56666.67,50000,60000
+2024-05-01,Cabai Merah Keriting,Curly Chilies,Bandung,56666.67,50000,60000
+2024-05-02,Cabai Merah Keriting,Curly Chilies,Bandung,58333.33,55000,60000
+2024-05-03,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-05-06,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-05-07,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-05-08,Cabai Merah Keriting,Curly Chilies,Bandung,61666.67,55000,65000
+2024-05-09,Cabai Merah Keriting,Curly Chilies,Bandung,61666.67,55000,65000
+2024-05-10,Cabai Merah Keriting,Curly Chilies,Bandung,61666.67,55000,65000
+2024-05-13,Cabai Merah Keriting,Curly Chilies,Bandung,55000,55000,55000
+2024-05-14,Cabai Merah Keriting,Curly Chilies,Bandung,53333.33,50000,55000
+2024-05-15,Cabai Merah Keriting,Curly Chilies,Bandung,53333.33,50000,55000
+2024-05-16,Cabai Merah Keriting,Curly Chilies,Bandung,53333.33,50000,55000
+2024-05-17,Cabai Merah Keriting,Curly Chilies,Bandung,53333.33,50000,55000
+2024-05-20,Cabai Merah Keriting,Curly Chilies,Bandung,53333.33,50000,55000
+2024-05-21,Cabai Merah Keriting,Curly Chilies,Bandung,53333.33,50000,55000
+2024-05-22,Cabai Merah Keriting,Curly Chilies,Bandung,53333.33,50000,55000
+2024-05-23,Cabai Merah Keriting,Curly Chilies,Bandung,53333.33,50000,55000
+2024-05-24,Cabai Merah Keriting,Curly Chilies,Bandung,53333.33,50000,55000
+2024-05-27,Cabai Merah Keriting,Curly Chilies,Bandung,53333.33,50000,55000
+2024-05-28,Cabai Merah Keriting,Curly Chilies,Bandung,53333.33,50000,55000
+2024-05-29,Cabai Merah Keriting,Curly Chilies,Bandung,50000,50000,50000
+2024-05-30,Cabai Merah Keriting,Curly Chilies,Bandung,58333.33,55000,60000
+2024-05-31,Cabai Merah Keriting,Curly Chilies,Bandung,58333.33,55000,60000
+2024-06-03,Cabai Merah Keriting,Curly Chilies,Bandung,58333.33,55000,60000
+2024-06-04,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-06-05,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-06-06,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-06-07,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-06-10,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-06-11,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-06-12,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-06-13,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-06-14,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-06-17,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-06-18,Cabai Merah Keriting,Curly Chilies,Bandung,60000,60000,60000
+2024-06-19,Cabai Merah Keriting,Curly Chilies,Bandung,65000,65000,65000
+2024-06-20,Cabai Merah Keriting,Curly Chilies,Bandung,65000,65000,65000
+2024-06-21,Cabai Merah Keriting,Curly Chilies,Bandung,73333.33,60000,80000
+2024-06-24,Cabai Merah Keriting,Curly Chilies,Bandung,70000,60000,75000
+2024-06-25,Cabai Merah Keriting,Curly Chilies,Bandung,68333.33,55000,75000
+2024-06-26,Cabai Merah Keriting,Curly Chilies,Bandung,68333.33,55000,75000
+2024-06-27,Cabai Merah Keriting,Curly Chilies,Bandung,58333.33,55000,60000
+2024-06-28,Cabai Merah Keriting,Curly Chilies,Bandung,56666.67,50000,60000
+2024-07-01,Cabai Merah Keriting,Curly Chilies,Bandung,50000,50000,50000
+2024-07-02,Cabai Merah Keriting,Curly Chilies,Bandung,50000,50000,50000
+2024-07-03,Cabai Merah Keriting,Curly Chilies,Bandung,50000,50000,50000
+2024-07-04,Cabai Merah Keriting,Curly Chilies,Bandung,53333.33,50000,55000
+2024-07-05,Cabai Merah Keriting,Curly Chilies,Bandung,53333.33,50000,55000
+2024-07-08,Cabai Merah Keriting,Curly Chilies,Bandung,91200,91200,91200
+2024-01-01,Cabai Merah Keriting,Curly Chilies,Jabodetabek,72255.32,65000,80000
+2024-01-02,Cabai Merah Keriting,Curly Chilies,Jabodetabek,75848.21,70000,80000
+2024-01-03,Cabai Merah Keriting,Curly Chilies,Jabodetabek,76482.46,70000,80000
+2024-01-04,Cabai Merah Keriting,Curly Chilies,Jabodetabek,76075.47,70000,80000
+2024-01-05,Cabai Merah Keriting,Curly Chilies,Jabodetabek,75627.27,70000,80000
+2024-01-06,Cabai Merah Keriting,Curly Chilies,Jabodetabek,75113.64,70000,80000
+2024-01-07,Cabai Merah Keriting,Curly Chilies,Jabodetabek,75113.64,70000,80000
+2024-01-08,Cabai Merah Keriting,Curly Chilies,Jabodetabek,88700,70000,118900
+2024-01-09,Cabai Merah Keriting,Curly Chilies,Jabodetabek,74868.42,70000,80000
+2024-01-10,Cabai Merah Keriting,Curly Chilies,Jabodetabek,74669.81,70000,80000
+2024-01-11,Cabai Merah Keriting,Curly Chilies,Jabodetabek,74364.41,70000,80000
+2024-01-12,Cabai Merah Keriting,Curly Chilies,Jabodetabek,73333.33,67500,80000
+2024-01-13,Cabai Merah Keriting,Curly Chilies,Jabodetabek,71666.67,65000,80000
+2024-01-14,Cabai Merah Keriting,Curly Chilies,Jabodetabek,70581.4,60000,80000
+2024-01-15,Cabai Merah Keriting,Curly Chilies,Jabodetabek,69913.79,65000,75000
+2024-01-16,Cabai Merah Keriting,Curly Chilies,Jabodetabek,72884.62,67500,80000
+2024-01-17,Cabai Merah Keriting,Curly Chilies,Jabodetabek,71562.5,65000,80000
+2024-01-18,Cabai Merah Keriting,Curly Chilies,Jabodetabek,71517.54,65000,80000
+2024-01-19,Cabai Merah Keriting,Curly Chilies,Jabodetabek,68868.42,62500,75000
+2024-01-20,Cabai Merah Keriting,Curly Chilies,Jabodetabek,65975,60000,70000
+2024-01-21,Cabai Merah Keriting,Curly Chilies,Jabodetabek,66166.67,60000,70000
+2024-01-22,Cabai Merah Keriting,Curly Chilies,Jabodetabek,68245.45,65000,70000
+2024-01-23,Cabai Merah Keriting,Curly Chilies,Jabodetabek,69698.28,64000,75000
+2024-01-24,Cabai Merah Keriting,Curly Chilies,Jabodetabek,72198.28,65000,80000
+2024-01-25,Cabai Merah Keriting,Curly Chilies,Jabodetabek,74429.82,70000,80000
+2024-01-26,Cabai Merah Keriting,Curly Chilies,Jabodetabek,73771.19,67500,80000
+2024-01-27,Cabai Merah Keriting,Curly Chilies,Jabodetabek,74418.6,70000,80000
+2024-01-28,Cabai Merah Keriting,Curly Chilies,Jabodetabek,74390.24,70000,80000
+2024-01-29,Cabai Merah Keriting,Curly Chilies,Jabodetabek,72232.14,65000,80000
+2024-01-30,Cabai Merah Keriting,Curly Chilies,Jabodetabek,71885.96,65000,80000
+2024-01-31,Cabai Merah Keriting,Curly Chilies,Jabodetabek,70181.82,65000,75000
+2024-02-01,Cabai Merah Keriting,Curly Chilies,Jabodetabek,66666.67,60000,70000
+2024-02-02,Cabai Merah Keriting,Curly Chilies,Jabodetabek,69622.81,65000,75000
+2024-02-03,Cabai Merah Keriting,Curly Chilies,Jabodetabek,70000,65000,75000
+2024-02-04,Cabai Merah Keriting,Curly Chilies,Jabodetabek,69666.67,65000,75000
+2024-02-05,Cabai Merah Keriting,Curly Chilies,Jabodetabek,72718.18,67500,80000
+2024-02-06,Cabai Merah Keriting,Curly Chilies,Jabodetabek,72758.93,65000,80000
+2024-02-07,Cabai Merah Keriting,Curly Chilies,Jabodetabek,74684.21,70000,80000
+2024-02-08,Cabai Merah Keriting,Curly Chilies,Jabodetabek,81461.54,70000,98000
+2024-02-09,Cabai Merah Keriting,Curly Chilies,Jabodetabek,75132.08,70000,80000
+2024-02-10,Cabai Merah Keriting,Curly Chilies,Jabodetabek,75128.21,70000,80000
+2024-02-11,Cabai Merah Keriting,Curly Chilies,Jabodetabek,74487.18,70000,80000
+2024-02-12,Cabai Merah Keriting,Curly Chilies,Jabodetabek,74905.66,70000,80000
+2024-02-13,Cabai Merah Keriting,Curly Chilies,Jabodetabek,75636.36,70000,80000
+2024-02-14,Cabai Merah Keriting,Curly Chilies,Jabodetabek,74893.62,70000,80000
+2024-02-15,Cabai Merah Keriting,Curly Chilies,Jabodetabek,78703.7,72500,85000
+2024-02-16,Cabai Merah Keriting,Curly Chilies,Jabodetabek,82227.27,75000,90000
+2024-02-17,Cabai Merah Keriting,Curly Chilies,Jabodetabek,80875,70000,90000
+2024-02-18,Cabai Merah Keriting,Curly Chilies,Jabodetabek,81951.22,75000,90000
+2024-02-19,Cabai Merah Keriting,Curly Chilies,Jabodetabek,84363.64,80000,90000
+2024-02-20,Cabai Merah Keriting,Curly Chilies,Jabodetabek,84732.14,80000,90000
+2024-02-21,Cabai Merah Keriting,Curly Chilies,Jabodetabek,84912.28,80000,90000
+2024-02-22,Cabai Merah Keriting,Curly Chilies,Jabodetabek,88772.73,80000,95000
+2024-02-23,Cabai Merah Keriting,Curly Chilies,Jabodetabek,90618.18,80000,100000
+2024-02-24,Cabai Merah Keriting,Curly Chilies,Jabodetabek,92558.14,85000,100000
+2024-02-25,Cabai Merah Keriting,Curly Chilies,Jabodetabek,88720.93,80000,95000
+2024-02-26,Cabai Merah Keriting,Curly Chilies,Jabodetabek,87508.93,80000,95000
+2024-02-27,Cabai Merah Keriting,Curly Chilies,Jabodetabek,87293.1,80000,95000
+2024-02-28,Cabai Merah Keriting,Curly Chilies,Jabodetabek,85219.3,80000,90000
+2024-02-29,Cabai Merah Keriting,Curly Chilies,Jabodetabek,84517.54,80000,90000
+2024-03-01,Cabai Merah Keriting,Curly Chilies,Jabodetabek,83616.07,80000,90000
+2024-03-02,Cabai Merah Keriting,Curly Chilies,Jabodetabek,82857.14,75000,90000
+2024-03-03,Cabai Merah Keriting,Curly Chilies,Jabodetabek,82500,75000,90000
+2024-03-04,Cabai Merah Keriting,Curly Chilies,Jabodetabek,81666.67,75000,90000
+2024-03-05,Cabai Merah Keriting,Curly Chilies,Jabodetabek,77962.96,70000,85000
+2024-03-06,Cabai Merah Keriting,Curly Chilies,Jabodetabek,78272.73,70000,85000
+2024-03-07,Cabai Merah Keriting,Curly Chilies,Jabodetabek,76462.96,70000,80000
+2024-03-08,Cabai Merah Keriting,Curly Chilies,Jabodetabek,90230.77,77500,116000
+2024-03-09,Cabai Merah Keriting,Curly Chilies,Jabodetabek,75641.03,70000,80000
+2024-03-10,Cabai Merah Keriting,Curly Chilies,Jabodetabek,75131.58,70000,80000
+2024-03-11,Cabai Merah Keriting,Curly Chilies,Jabodetabek,77952.83,70000,85000
+2024-03-12,Cabai Merah Keriting,Curly Chilies,Jabodetabek,79462.26,70000,90000
+2024-03-13,Cabai Merah Keriting,Curly Chilies,Jabodetabek,90636.36,80000,100000
+2024-03-14,Cabai Merah Keriting,Curly Chilies,Jabodetabek,90535.71,80000,100000
+2024-03-15,Cabai Merah Keriting,Curly Chilies,Jabodetabek,86754.39,80000,95000
+2024-03-16,Cabai Merah Keriting,Curly Chilies,Jabodetabek,83700,75000,90000
+2024-03-17,Cabai Merah Keriting,Curly Chilies,Jabodetabek,79075,65000,90000
+2024-03-18,Cabai Merah Keriting,Curly Chilies,Jabodetabek,71622.81,60000,85000
+2024-03-19,Cabai Merah Keriting,Curly Chilies,Jabodetabek,67916.67,60000,80000
+2024-03-20,Cabai Merah Keriting,Curly Chilies,Jabodetabek,65175.93,55000,80000
+2024-03-21,Cabai Merah Keriting,Curly Chilies,Jabodetabek,61651.79,50000,77500
+2024-03-22,Cabai Merah Keriting,Curly Chilies,Jabodetabek,59464.29,50000,70000
+2024-03-23,Cabai Merah Keriting,Curly Chilies,Jabodetabek,57926.83,50000,70000
+2024-03-24,Cabai Merah Keriting,Curly Chilies,Jabodetabek,58731.71,50000,70000
+2024-03-25,Cabai Merah Keriting,Curly Chilies,Jabodetabek,52785.71,45000,60000
+2024-03-26,Cabai Merah Keriting,Curly Chilies,Jabodetabek,51622.64,45000,60000
+2024-03-27,Cabai Merah Keriting,Curly Chilies,Jabodetabek,51083.33,44000,60000
+2024-03-28,Cabai Merah Keriting,Curly Chilies,Jabodetabek,48843.14,42500,55000
+2024-03-29,Cabai Merah Keriting,Curly Chilies,Jabodetabek,49009.43,42500,55000
+2024-03-30,Cabai Merah Keriting,Curly Chilies,Jabodetabek,49256.41,45000,55000
+2024-03-31,Cabai Merah Keriting,Curly Chilies,Jabodetabek,49250,45000,55000
+2024-04-01,Cabai Merah Keriting,Curly Chilies,Jabodetabek,51826.92,45000,60000
+2024-04-02,Cabai Merah Keriting,Curly Chilies,Jabodetabek,50000,45000,55000
+2024-04-03,Cabai Merah Keriting,Curly Chilies,Jabodetabek,50255.81,42500,57500
+2024-04-04,Cabai Merah Keriting,Curly Chilies,Jabodetabek,51923.08,45000,60000
+2024-04-05,Cabai Merah Keriting,Curly Chilies,Jabodetabek,52028.3,45000,60000
+2024-04-06,Cabai Merah Keriting,Curly Chilies,Jabodetabek,49875,45000,55000
+2024-04-07,Cabai Merah Keriting,Curly Chilies,Jabodetabek,50000,45000,55000
+2024-04-08,Cabai Merah Keriting,Curly Chilies,Jabodetabek,65676.92,50000,93450
+2024-04-09,Cabai Merah Keriting,Curly Chilies,Jabodetabek,66600,50000,96450
+2024-04-10,Cabai Merah Keriting,Curly Chilies,Jabodetabek,66600,50000,96450
+2024-04-11,Cabai Merah Keriting,Curly Chilies,Jabodetabek,66600,50000,96450
+2024-04-12,Cabai Merah Keriting,Curly Chilies,Jabodetabek,52447.92,45000,60000
+2024-04-13,Cabai Merah Keriting,Curly Chilies,Jabodetabek,51625,45000,60000
+2024-04-14,Cabai Merah Keriting,Curly Chilies,Jabodetabek,52317.07,45000,60000
+2024-04-15,Cabai Merah Keriting,Curly Chilies,Jabodetabek,54120.37,50000,60000
+2024-04-16,Cabai Merah Keriting,Curly Chilies,Jabodetabek,51933.96,45000,60000
+2024-04-17,Cabai Merah Keriting,Curly Chilies,Jabodetabek,50431.03,40000,60000
+2024-04-18,Cabai Merah Keriting,Curly Chilies,Jabodetabek,50227.27,40000,60000
+2024-04-19,Cabai Merah Keriting,Curly Chilies,Jabodetabek,49954.55,40000,60000
+2024-04-20,Cabai Merah Keriting,Curly Chilies,Jabodetabek,48048.78,40000,55000
+2024-04-21,Cabai Merah Keriting,Curly Chilies,Jabodetabek,49575,45000,55000
+2024-04-22,Cabai Merah Keriting,Curly Chilies,Jabodetabek,59561.54,39000,96450
+2024-04-23,Cabai Merah Keriting,Curly Chilies,Jabodetabek,49243.59,40000,60000
+2024-04-24,Cabai Merah Keriting,Curly Chilies,Jabodetabek,45283.78,40000,50000
+2024-04-25,Cabai Merah Keriting,Curly Chilies,Jabodetabek,47634.15,45000,50000
+2024-04-26,Cabai Merah Keriting,Curly Chilies,Jabodetabek,50650,45000,60000
+2024-04-27,Cabai Merah Keriting,Curly Chilies,Jabodetabek,52541.67,45000,60000
+2024-04-28,Cabai Merah Keriting,Curly Chilies,Jabodetabek,54111.11,48000,60000
+2024-04-29,Cabai Merah Keriting,Curly Chilies,Jabodetabek,59890.24,50000,70000
+2024-04-30,Cabai Merah Keriting,Curly Chilies,Jabodetabek,63804.88,57500,70000
+2024-05-01,Cabai Merah Keriting,Curly Chilies,Jabodetabek,62263.16,55000,70000
+2024-05-02,Cabai Merah Keriting,Curly Chilies,Jabodetabek,62011.9,55000,70000
+2024-05-03,Cabai Merah Keriting,Curly Chilies,Jabodetabek,58619.05,50000,65000
+2024-05-04,Cabai Merah Keriting,Curly Chilies,Jabodetabek,55692.31,50000,60000
+2024-05-05,Cabai Merah Keriting,Curly Chilies,Jabodetabek,58120,50000,65000
+2024-05-06,Cabai Merah Keriting,Curly Chilies,Jabodetabek,56232.56,50000,60000
+2024-05-07,Cabai Merah Keriting,Curly Chilies,Jabodetabek,57206.52,50000,65000
+2024-05-08,Cabai Merah Keriting,Curly Chilies,Jabodetabek,69238.46,52500,99650
+2024-05-09,Cabai Merah Keriting,Curly Chilies,Jabodetabek,56619.05,50000,65000
+2024-05-10,Cabai Merah Keriting,Curly Chilies,Jabodetabek,56488.37,50000,65000
+2024-05-11,Cabai Merah Keriting,Curly Chilies,Jabodetabek,53666.67,45000,60000
+2024-05-12,Cabai Merah Keriting,Curly Chilies,Jabodetabek,53103.45,45000,60000
+2024-05-13,Cabai Merah Keriting,Curly Chilies,Jabodetabek,53097.83,47500,60000
+2024-05-14,Cabai Merah Keriting,Curly Chilies,Jabodetabek,52655.56,46000,60000
+2024-05-15,Cabai Merah Keriting,Curly Chilies,Jabodetabek,53066.67,47500,60000
+2024-05-16,Cabai Merah Keriting,Curly Chilies,Jabodetabek,52281.25,45000,60000
+2024-05-17,Cabai Merah Keriting,Curly Chilies,Jabodetabek,53227.27,48000,60000
+2024-05-18,Cabai Merah Keriting,Curly Chilies,Jabodetabek,50781.25,45000,55000
+2024-05-19,Cabai Merah Keriting,Curly Chilies,Jabodetabek,52821.43,48000,60000
+2024-05-20,Cabai Merah Keriting,Curly Chilies,Jabodetabek,52766.67,47500,60000
+2024-05-21,Cabai Merah Keriting,Curly Chilies,Jabodetabek,52788.89,47500,60000
+2024-05-22,Cabai Merah Keriting,Curly Chilies,Jabodetabek,53116.28,47500,60000
+2024-05-23,Cabai Merah Keriting,Curly Chilies,Jabodetabek,52739.13,47500,60000
+2024-05-24,Cabai Merah Keriting,Curly Chilies,Jabodetabek,53022.73,48000,60000
+2024-05-25,Cabai Merah Keriting,Curly Chilies,Jabodetabek,53633.33,50000,60000
+2024-05-26,Cabai Merah Keriting,Curly Chilies,Jabodetabek,50096.77,45000,55000
+2024-05-27,Cabai Merah Keriting,Curly Chilies,Jabodetabek,52700,47500,60000
+2024-05-28,Cabai Merah Keriting,Curly Chilies,Jabodetabek,53636.36,50000,60000
+2024-05-29,Cabai Merah Keriting,Curly Chilies,Jabodetabek,54410.26,50000,60000
+2024-05-30,Cabai Merah Keriting,Curly Chilies,Jabodetabek,55148.94,50000,60000
+2024-05-31,Cabai Merah Keriting,Curly Chilies,Jabodetabek,55186.05,50000,60000
+2024-06-01,Cabai Merah Keriting,Curly Chilies,Jabodetabek,53870.97,50000,60000
+2024-06-02,Cabai Merah Keriting,Curly Chilies,Jabodetabek,54218.75,50000,60000
+2024-06-03,Cabai Merah Keriting,Curly Chilies,Jabodetabek,54684.78,50000,60000
+2024-06-04,Cabai Merah Keriting,Curly Chilies,Jabodetabek,54617.65,50000,60000
+2024-06-05,Cabai Merah Keriting,Curly Chilies,Jabodetabek,54184.78,50000,60000
+2024-06-06,Cabai Merah Keriting,Curly Chilies,Jabodetabek,54836.73,50000,60000
+2024-06-07,Cabai Merah Keriting,Curly Chilies,Jabodetabek,54866.67,50000,60000
+2024-06-09,Cabai Merah Keriting,Curly Chilies,Jabodetabek,54529.41,50000,60000
+2024-06-10,Cabai Merah Keriting,Curly Chilies,Jabodetabek,56633.33,52000,60000
+2024-06-11,Cabai Merah Keriting,Curly Chilies,Jabodetabek,57842.86,55000,60000
+2024-06-12,Cabai Merah Keriting,Curly Chilies,Jabodetabek,58025,54000,60000
+2024-06-13,Cabai Merah Keriting,Curly Chilies,Jabodetabek,60250,55000,65000
+2024-06-14,Cabai Merah Keriting,Curly Chilies,Jabodetabek,60236.84,55000,65000
+2024-06-15,Cabai Merah Keriting,Curly Chilies,Jabodetabek,56652.17,50000,60000
+2024-06-16,Cabai Merah Keriting,Curly Chilies,Jabodetabek,58576.92,50000,65000
+2024-06-17,Cabai Merah Keriting,Curly Chilies,Jabodetabek,63000,55000,70000
+2024-06-18,Cabai Merah Keriting,Curly Chilies,Jabodetabek,62000,54000,70000
+2024-06-19,Cabai Merah Keriting,Curly Chilies,Jabodetabek,62528.57,55000,70000
+2024-06-20,Cabai Merah Keriting,Curly Chilies,Jabodetabek,63271.43,56500,70000
+2024-06-21,Cabai Merah Keriting,Curly Chilies,Jabodetabek,59462.5,50000,67500
+2024-06-22,Cabai Merah Keriting,Curly Chilies,Jabodetabek,56851.85,50000,65000
+2024-06-23,Cabai Merah Keriting,Curly Chilies,Jabodetabek,51875,45000,60000
+2024-06-24,Cabai Merah Keriting,Curly Chilies,Jabodetabek,52012.5,45000,60000
+2024-06-25,Cabai Merah Keriting,Curly Chilies,Jabodetabek,49597.56,40000,60000
+2024-06-26,Cabai Merah Keriting,Curly Chilies,Jabodetabek,50806.82,41500,60000
+2024-06-27,Cabai Merah Keriting,Curly Chilies,Jabodetabek,46987.8,40000,55000
+2024-06-28,Cabai Merah Keriting,Curly Chilies,Jabodetabek,46682.93,40000,55000
+2024-06-29,Cabai Merah Keriting,Curly Chilies,Jabodetabek,44800,40000,50000
+2024-06-30,Cabai Merah Keriting,Curly Chilies,Jabodetabek,46666.67,40000,55000
+2024-07-01,Cabai Merah Keriting,Curly Chilies,Jabodetabek,46940.48,40000,55000
+2024-07-02,Cabai Merah Keriting,Curly Chilies,Jabodetabek,45093.02,40000,50000
+2024-07-03,Cabai Merah Keriting,Curly Chilies,Jabodetabek,45697.37,40000,50000
+2024-07-04,Cabai Merah Keriting,Curly Chilies,Jabodetabek,50337.5,43500,60000
+2024-07-05,Cabai Merah Keriting,Curly Chilies,Jabodetabek,49869.05,45000,55000
+2024-07-06,Cabai Merah Keriting,Curly Chilies,Jabodetabek,49444.44,45000,55000
+2024-07-07,Cabai Merah Keriting,Curly Chilies,Jabodetabek,49233.33,45000,55000
+2024-07-08,Cabai Merah Keriting,Curly Chilies,Jabodetabek,81287.5,80200,82250
+2024-01-01,Cabai Rawit Merah,Red Chilies,Bandung,93333.33,90000,95000
+2024-01-02,Cabai Rawit Merah,Red Chilies,Bandung,98333.33,95000,100000
+2024-01-03,Cabai Rawit Merah,Red Chilies,Bandung,98333.33,95000,100000
+2024-01-04,Cabai Rawit Merah,Red Chilies,Bandung,98333.33,95000,100000
+2024-01-05,Cabai Rawit Merah,Red Chilies,Bandung,98333.33,95000,100000
+2024-01-08,Cabai Rawit Merah,Red Chilies,Bandung,98333.33,95000,100000
+2024-01-09,Cabai Rawit Merah,Red Chilies,Bandung,98333.33,95000,100000
+2024-01-10,Cabai Rawit Merah,Red Chilies,Bandung,90000,90000,90000
+2024-01-11,Cabai Rawit Merah,Red Chilies,Bandung,91666.67,85000,95000
+2024-01-12,Cabai Rawit Merah,Red Chilies,Bandung,91666.67,85000,95000
+2024-01-15,Cabai Rawit Merah,Red Chilies,Bandung,88333.33,85000,90000
+2024-01-16,Cabai Rawit Merah,Red Chilies,Bandung,85000,85000,85000
+2024-01-17,Cabai Rawit Merah,Red Chilies,Bandung,81666.67,75000,85000
+2024-01-18,Cabai Rawit Merah,Red Chilies,Bandung,81666.67,75000,85000
+2024-01-19,Cabai Rawit Merah,Red Chilies,Bandung,81666.67,75000,85000
+2024-01-22,Cabai Rawit Merah,Red Chilies,Bandung,78333.33,75000,80000
+2024-01-23,Cabai Rawit Merah,Red Chilies,Bandung,75000,75000,75000
+2024-01-24,Cabai Rawit Merah,Red Chilies,Bandung,75000,75000,75000
+2024-01-25,Cabai Rawit Merah,Red Chilies,Bandung,66666.67,65000,67500
+2024-01-26,Cabai Rawit Merah,Red Chilies,Bandung,55000,55000,55000
+2024-01-29,Cabai Rawit Merah,Red Chilies,Bandung,53333.33,50000,55000
+2024-01-30,Cabai Rawit Merah,Red Chilies,Bandung,53333.33,50000,55000
+2024-01-31,Cabai Rawit Merah,Red Chilies,Bandung,53333.33,50000,55000
+2024-02-01,Cabai Rawit Merah,Red Chilies,Bandung,55000,45000,60000
+2024-02-02,Cabai Rawit Merah,Red Chilies,Bandung,55000,45000,60000
+2024-02-05,Cabai Rawit Merah,Red Chilies,Bandung,56666.67,50000,60000
+2024-02-06,Cabai Rawit Merah,Red Chilies,Bandung,56666.67,50000,60000
+2024-02-07,Cabai Rawit Merah,Red Chilies,Bandung,56666.67,50000,60000
+2024-02-08,Cabai Rawit Merah,Red Chilies,Bandung,56666.67,50000,60000
+2024-02-09,Cabai Rawit Merah,Red Chilies,Bandung,56666.67,50000,60000
+2024-02-12,Cabai Rawit Merah,Red Chilies,Bandung,56666.67,50000,60000
+2024-02-13,Cabai Rawit Merah,Red Chilies,Bandung,58333.33,55000,60000
+2024-02-14,Cabai Rawit Merah,Red Chilies,Bandung,58333.33,55000,60000
+2024-02-15,Cabai Rawit Merah,Red Chilies,Bandung,75000,55000,85000
+2024-02-16,Cabai Rawit Merah,Red Chilies,Bandung,81666.67,65000,90000
+2024-02-19,Cabai Rawit Merah,Red Chilies,Bandung,82466.67,65000,91200
+2024-02-20,Cabai Rawit Merah,Red Chilies,Bandung,85800,75000,91200
+2024-02-21,Cabai Rawit Merah,Red Chilies,Bandung,85800,75000,91200
+2024-02-22,Cabai Rawit Merah,Red Chilies,Bandung,87466.67,80000,91200
+2024-02-23,Cabai Rawit Merah,Red Chilies,Bandung,87466.67,80000,91200
+2024-02-26,Cabai Rawit Merah,Red Chilies,Bandung,87466.67,80000,91200
+2024-02-27,Cabai Rawit Merah,Red Chilies,Bandung,90000,80000,95000
+2024-02-28,Cabai Rawit Merah,Red Chilies,Bandung,90000,80000,95000
+2024-02-29,Cabai Rawit Merah,Red Chilies,Bandung,90000,80000,95000
+2024-03-01,Cabai Rawit Merah,Red Chilies,Bandung,90000,80000,95000
+2024-03-04,Cabai Rawit Merah,Red Chilies,Bandung,90000,80000,95000
+2024-03-05,Cabai Rawit Merah,Red Chilies,Bandung,90000,80000,95000
+2024-03-06,Cabai Rawit Merah,Red Chilies,Bandung,90000,80000,95000
+2024-03-07,Cabai Rawit Merah,Red Chilies,Bandung,83333.33,80000,85000
+2024-03-08,Cabai Rawit Merah,Red Chilies,Bandung,83333.33,80000,85000
+2024-03-11,Cabai Rawit Merah,Red Chilies,Bandung,83333.33,80000,85000
+2024-03-12,Cabai Rawit Merah,Red Chilies,Bandung,83333.33,80000,85000
+2024-03-13,Cabai Rawit Merah,Red Chilies,Bandung,80000,80000,80000
+2024-03-14,Cabai Rawit Merah,Red Chilies,Bandung,78333.33,75000,80000
+2024-03-15,Cabai Rawit Merah,Red Chilies,Bandung,78333.33,75000,80000
+2024-03-18,Cabai Rawit Merah,Red Chilies,Bandung,75000,75000,75000
+2024-03-19,Cabai Rawit Merah,Red Chilies,Bandung,75000,75000,75000
+2024-03-20,Cabai Rawit Merah,Red Chilies,Bandung,71666.67,65000,75000
+2024-03-21,Cabai Rawit Merah,Red Chilies,Bandung,65000,65000,65000
+2024-03-22,Cabai Rawit Merah,Red Chilies,Bandung,65000,65000,65000
+2024-03-25,Cabai Rawit Merah,Red Chilies,Bandung,60000,60000,60000
+2024-03-26,Cabai Rawit Merah,Red Chilies,Bandung,60000,60000,60000
+2024-03-27,Cabai Rawit Merah,Red Chilies,Bandung,58333.33,55000,60000
+2024-03-28,Cabai Rawit Merah,Red Chilies,Bandung,58333.33,55000,60000
+2024-03-29,Cabai Rawit Merah,Red Chilies,Bandung,58333.33,55000,60000
+2024-04-01,Cabai Rawit Merah,Red Chilies,Bandung,63333.33,60000,65000
+2024-04-02,Cabai Rawit Merah,Red Chilies,Bandung,63333.33,60000,65000
+2024-04-03,Cabai Rawit Merah,Red Chilies,Bandung,66666.67,60000,70000
+2024-04-04,Cabai Rawit Merah,Red Chilies,Bandung,66666.67,60000,70000
+2024-04-05,Cabai Rawit Merah,Red Chilies,Bandung,68333.33,65000,70000
+2024-04-08,Cabai Rawit Merah,Red Chilies,Bandung,68333.33,65000,70000
+2024-04-09,Cabai Rawit Merah,Red Chilies,Bandung,68333.33,65000,70000
+2024-04-10,Cabai Rawit Merah,Red Chilies,Bandung,68333.33,65000,70000
+2024-04-11,Cabai Rawit Merah,Red Chilies,Bandung,68333.33,65000,70000
+2024-04-12,Cabai Rawit Merah,Red Chilies,Bandung,89200,89200,89200
+2024-04-15,Cabai Rawit Merah,Red Chilies,Bandung,68333.33,65000,70000
+2024-04-16,Cabai Rawit Merah,Red Chilies,Bandung,60000,60000,60000
+2024-04-17,Cabai Rawit Merah,Red Chilies,Bandung,60000,60000,60000
+2024-04-18,Cabai Rawit Merah,Red Chilies,Bandung,60000,60000,60000
+2024-04-19,Cabai Rawit Merah,Red Chilies,Bandung,60000,60000,60000
+2024-04-22,Cabai Rawit Merah,Red Chilies,Bandung,55000,45000,60000
+2024-04-23,Cabai Rawit Merah,Red Chilies,Bandung,48333.33,45000,50000
+2024-04-24,Cabai Rawit Merah,Red Chilies,Bandung,45000,45000,45000
+2024-04-25,Cabai Rawit Merah,Red Chilies,Bandung,48333.33,45000,50000
+2024-04-26,Cabai Rawit Merah,Red Chilies,Bandung,48333.33,45000,50000
+2024-04-29,Cabai Rawit Merah,Red Chilies,Bandung,48333.33,45000,50000
+2024-04-30,Cabai Rawit Merah,Red Chilies,Bandung,48333.33,45000,50000
+2024-05-01,Cabai Rawit Merah,Red Chilies,Bandung,48333.33,45000,50000
+2024-05-02,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-05-03,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-05-06,Cabai Rawit Merah,Red Chilies,Bandung,51666.67,45000,55000
+2024-05-07,Cabai Rawit Merah,Red Chilies,Bandung,52500,47500,55000
+2024-05-08,Cabai Rawit Merah,Red Chilies,Bandung,56666.67,50000,60000
+2024-05-09,Cabai Rawit Merah,Red Chilies,Bandung,56666.67,50000,60000
+2024-05-10,Cabai Rawit Merah,Red Chilies,Bandung,56666.67,50000,60000
+2024-05-13,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-05-14,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-05-15,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-05-16,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-05-17,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-05-20,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-05-21,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-05-22,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-05-23,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-05-24,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-05-27,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-05-28,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-05-29,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-05-30,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-05-31,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-06-03,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-06-04,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-06-05,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-06-06,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-06-07,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-06-10,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-06-11,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-06-12,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-06-13,Cabai Rawit Merah,Red Chilies,Bandung,53333.33,50000,55000
+2024-06-14,Cabai Rawit Merah,Red Chilies,Bandung,53333.33,50000,55000
+2024-06-17,Cabai Rawit Merah,Red Chilies,Bandung,53333.33,50000,55000
+2024-06-18,Cabai Rawit Merah,Red Chilies,Bandung,53333.33,50000,55000
+2024-06-19,Cabai Rawit Merah,Red Chilies,Bandung,60000,60000,60000
+2024-06-20,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-06-21,Cabai Rawit Merah,Red Chilies,Bandung,58333.33,55000,60000
+2024-06-24,Cabai Rawit Merah,Red Chilies,Bandung,58333.33,55000,60000
+2024-06-25,Cabai Rawit Merah,Red Chilies,Bandung,55000,55000,55000
+2024-06-26,Cabai Rawit Merah,Red Chilies,Bandung,55000,55000,55000
+2024-06-27,Cabai Rawit Merah,Red Chilies,Bandung,55000,55000,55000
+2024-06-28,Cabai Rawit Merah,Red Chilies,Bandung,53333.33,50000,55000
+2024-07-01,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-07-02,Cabai Rawit Merah,Red Chilies,Bandung,53333.33,50000,55000
+2024-07-03,Cabai Rawit Merah,Red Chilies,Bandung,50000,50000,50000
+2024-07-04,Cabai Rawit Merah,Red Chilies,Bandung,53333.33,50000,55000
+2024-07-05,Cabai Rawit Merah,Red Chilies,Bandung,58333.33,55000,60000
+2024-07-08,Cabai Rawit Merah,Red Chilies,Bandung,66200,66200,66200
+2024-01-01,Cabai Rawit Merah,Red Chilies,Jabodetabek,91776.6,85000,100000
+2024-01-02,Cabai Rawit Merah,Red Chilies,Jabodetabek,94107.14,90000,100000
+2024-01-03,Cabai Rawit Merah,Red Chilies,Jabodetabek,94122.81,90000,100000
+2024-01-04,Cabai Rawit Merah,Red Chilies,Jabodetabek,93981.48,90000,100000
+2024-01-05,Cabai Rawit Merah,Red Chilies,Jabodetabek,91318.18,82500,100000
+2024-01-06,Cabai Rawit Merah,Red Chilies,Jabodetabek,88295.45,80000,95000
+2024-01-07,Cabai Rawit Merah,Red Chilies,Jabodetabek,87906.98,80000,95000
+2024-01-08,Cabai Rawit Merah,Red Chilies,Jabodetabek,89792.31,70000,123950
+2024-01-09,Cabai Rawit Merah,Red Chilies,Jabodetabek,79298.25,70000,90000
+2024-01-10,Cabai Rawit Merah,Red Chilies,Jabodetabek,75094.34,65000,85000
+2024-01-11,Cabai Rawit Merah,Red Chilies,Jabodetabek,71232.76,60000,80000
+2024-01-12,Cabai Rawit Merah,Red Chilies,Jabodetabek,69636.36,60000,80000
+2024-01-13,Cabai Rawit Merah,Red Chilies,Jabodetabek,69555.56,60000,80000
+2024-01-14,Cabai Rawit Merah,Red Chilies,Jabodetabek,68604.65,60000,80000
+2024-01-15,Cabai Rawit Merah,Red Chilies,Jabodetabek,65603.45,60000,70000
+2024-01-16,Cabai Rawit Merah,Red Chilies,Jabodetabek,69198.11,60000,80000
+2024-01-17,Cabai Rawit Merah,Red Chilies,Jabodetabek,68705.36,60000,80000
+2024-01-18,Cabai Rawit Merah,Red Chilies,Jabodetabek,66885.96,60000,75000
+2024-01-19,Cabai Rawit Merah,Red Chilies,Jabodetabek,65921.05,60000,75000
+2024-01-20,Cabai Rawit Merah,Red Chilies,Jabodetabek,65250,55000,75000
+2024-01-21,Cabai Rawit Merah,Red Chilies,Jabodetabek,65833.33,60000,75000
+2024-01-22,Cabai Rawit Merah,Red Chilies,Jabodetabek,57453.7,50000,65000
+2024-01-23,Cabai Rawit Merah,Red Chilies,Jabodetabek,57810.34,50000,65000
+2024-01-24,Cabai Rawit Merah,Red Chilies,Jabodetabek,57245.61,50000,65000
+2024-01-25,Cabai Rawit Merah,Red Chilies,Jabodetabek,56964.91,50000,65000
+2024-01-26,Cabai Rawit Merah,Red Chilies,Jabodetabek,58827.59,50000,70000
+2024-01-27,Cabai Rawit Merah,Red Chilies,Jabodetabek,57488.37,50000,65000
+2024-01-28,Cabai Rawit Merah,Red Chilies,Jabodetabek,60170.73,52000,70000
+2024-01-29,Cabai Rawit Merah,Red Chilies,Jabodetabek,59500,50000,70000
+2024-01-30,Cabai Rawit Merah,Red Chilies,Jabodetabek,59333.33,50000,70000
+2024-01-31,Cabai Rawit Merah,Red Chilies,Jabodetabek,59127.27,50000,70000
+2024-02-01,Cabai Rawit Merah,Red Chilies,Jabodetabek,56710.53,50000,62500
+2024-02-02,Cabai Rawit Merah,Red Chilies,Jabodetabek,56675.44,50000,62500
+2024-02-03,Cabai Rawit Merah,Red Chilies,Jabodetabek,58636.36,50000,70000
+2024-02-04,Cabai Rawit Merah,Red Chilies,Jabodetabek,58777.78,50000,70000
+2024-02-05,Cabai Rawit Merah,Red Chilies,Jabodetabek,57054.55,50000,65000
+2024-02-06,Cabai Rawit Merah,Red Chilies,Jabodetabek,55366.07,50000,60000
+2024-02-07,Cabai Rawit Merah,Red Chilies,Jabodetabek,55412.28,50000,60000
+2024-02-08,Cabai Rawit Merah,Red Chilies,Jabodetabek,66807.69,50000,87500
+2024-02-09,Cabai Rawit Merah,Red Chilies,Jabodetabek,58311.32,50000,70000
+2024-02-10,Cabai Rawit Merah,Red Chilies,Jabodetabek,56846.15,50000,60000
+2024-02-11,Cabai Rawit Merah,Red Chilies,Jabodetabek,57102.56,52000,60000
+2024-02-12,Cabai Rawit Merah,Red Chilies,Jabodetabek,58037.74,52500,62500
+2024-02-13,Cabai Rawit Merah,Red Chilies,Jabodetabek,58563.64,55000,61000
+2024-02-14,Cabai Rawit Merah,Red Chilies,Jabodetabek,58297.87,55000,60000
+2024-02-15,Cabai Rawit Merah,Red Chilies,Jabodetabek,64740.74,60000,70000
+2024-02-16,Cabai Rawit Merah,Red Chilies,Jabodetabek,73936.61,60000,85000
+2024-02-17,Cabai Rawit Merah,Red Chilies,Jabodetabek,73048.78,60000,85000
+2024-02-18,Cabai Rawit Merah,Red Chilies,Jabodetabek,75609.76,65000,85000
+2024-02-19,Cabai Rawit Merah,Red Chilies,Jabodetabek,82162.73,75000,90000
+2024-02-20,Cabai Rawit Merah,Red Chilies,Jabodetabek,83709.65,80000,90000
+2024-02-21,Cabai Rawit Merah,Red Chilies,Jabodetabek,83784.82,80000,90000
+2024-02-22,Cabai Rawit Merah,Red Chilies,Jabodetabek,87353.64,80000,95000
+2024-02-23,Cabai Rawit Merah,Red Chilies,Jabodetabek,87990,80000,95000
+2024-02-24,Cabai Rawit Merah,Red Chilies,Jabodetabek,88255.81,80000,95000
+2024-02-25,Cabai Rawit Merah,Red Chilies,Jabodetabek,86511.63,80000,90000
+2024-02-26,Cabai Rawit Merah,Red Chilies,Jabodetabek,84856.25,80000,90000
+2024-02-27,Cabai Rawit Merah,Red Chilies,Jabodetabek,84956.9,80000,90000
+2024-02-28,Cabai Rawit Merah,Red Chilies,Jabodetabek,84622.81,80000,90000
+2024-02-29,Cabai Rawit Merah,Red Chilies,Jabodetabek,84184.21,80000,90000
+2024-03-01,Cabai Rawit Merah,Red Chilies,Jabodetabek,83812.5,80000,90000
+2024-03-02,Cabai Rawit Merah,Red Chilies,Jabodetabek,82190.48,80000,86000
+2024-03-03,Cabai Rawit Merah,Red Chilies,Jabodetabek,81804.88,78000,86000
+2024-03-04,Cabai Rawit Merah,Red Chilies,Jabodetabek,82392.86,75000,90000
+2024-03-05,Cabai Rawit Merah,Red Chilies,Jabodetabek,78342.59,70000,85000
+2024-03-06,Cabai Rawit Merah,Red Chilies,Jabodetabek,78236.36,70000,85000
+2024-03-07,Cabai Rawit Merah,Red Chilies,Jabodetabek,77555.56,70000,85000
+2024-03-08,Cabai Rawit Merah,Red Chilies,Jabodetabek,83084.62,72500,98150
+2024-03-09,Cabai Rawit Merah,Red Chilies,Jabodetabek,75707.32,70000,80000
+2024-03-10,Cabai Rawit Merah,Red Chilies,Jabodetabek,75500,70000,80000
+2024-03-11,Cabai Rawit Merah,Red Chilies,Jabodetabek,75735.85,70000,80000
+2024-03-12,Cabai Rawit Merah,Red Chilies,Jabodetabek,76773.58,70000,85000
+2024-03-13,Cabai Rawit Merah,Red Chilies,Jabodetabek,77300,70000,85000
+2024-03-14,Cabai Rawit Merah,Red Chilies,Jabodetabek,79133.93,70000,90000
+2024-03-15,Cabai Rawit Merah,Red Chilies,Jabodetabek,77359.65,70000,85000
+2024-03-16,Cabai Rawit Merah,Red Chilies,Jabodetabek,79250,70000,90000
+2024-03-17,Cabai Rawit Merah,Red Chilies,Jabodetabek,71357.14,60000,80000
+2024-03-18,Cabai Rawit Merah,Red Chilies,Jabodetabek,68437.5,60000,80000
+2024-03-19,Cabai Rawit Merah,Red Chilies,Jabodetabek,65601.85,60000,75000
+2024-03-20,Cabai Rawit Merah,Red Chilies,Jabodetabek,62481.48,56000,70000
+2024-03-21,Cabai Rawit Merah,Red Chilies,Jabodetabek,60508.93,50000,72500
+2024-03-22,Cabai Rawit Merah,Red Chilies,Jabodetabek,58723.21,50000,70000
+2024-03-23,Cabai Rawit Merah,Red Chilies,Jabodetabek,56975.61,50000,65000
+2024-03-24,Cabai Rawit Merah,Red Chilies,Jabodetabek,59292.68,50000,70000
+2024-03-25,Cabai Rawit Merah,Red Chilies,Jabodetabek,52857.14,45000,60000
+2024-03-26,Cabai Rawit Merah,Red Chilies,Jabodetabek,51833.33,45000,60000
+2024-03-27,Cabai Rawit Merah,Red Chilies,Jabodetabek,51064.81,45000,60000
+2024-03-28,Cabai Rawit Merah,Red Chilies,Jabodetabek,50971.15,45000,60000
+2024-03-29,Cabai Rawit Merah,Red Chilies,Jabodetabek,51855.77,45000,60000
+2024-03-30,Cabai Rawit Merah,Red Chilies,Jabodetabek,49487.18,45000,55000
+2024-03-31,Cabai Rawit Merah,Red Chilies,Jabodetabek,47750,45000,50000
+2024-04-01,Cabai Rawit Merah,Red Chilies,Jabodetabek,51396.23,45000,60000
+2024-04-02,Cabai Rawit Merah,Red Chilies,Jabodetabek,51333.33,45000,60000
+2024-04-03,Cabai Rawit Merah,Red Chilies,Jabodetabek,50209.3,45000,55000
+2024-04-04,Cabai Rawit Merah,Red Chilies,Jabodetabek,51625,45000,60000
+2024-04-05,Cabai Rawit Merah,Red Chilies,Jabodetabek,51849.06,45000,60000
+2024-04-06,Cabai Rawit Merah,Red Chilies,Jabodetabek,51200,45000,60000
+2024-04-07,Cabai Rawit Merah,Red Chilies,Jabodetabek,51325,45000,60000
+2024-04-08,Cabai Rawit Merah,Red Chilies,Jabodetabek,61423.08,47500,84000
+2024-04-09,Cabai Rawit Merah,Red Chilies,Jabodetabek,60038.46,47500,79500
+2024-04-10,Cabai Rawit Merah,Red Chilies,Jabodetabek,60038.46,47500,79500
+2024-04-11,Cabai Rawit Merah,Red Chilies,Jabodetabek,60038.46,47500,79500
+2024-04-12,Cabai Rawit Merah,Red Chilies,Jabodetabek,52145.83,45000,60000
+2024-04-13,Cabai Rawit Merah,Red Chilies,Jabodetabek,51575,45000,60000
+2024-04-14,Cabai Rawit Merah,Red Chilies,Jabodetabek,52390.24,45000,60000
+2024-04-15,Cabai Rawit Merah,Red Chilies,Jabodetabek,53157.41,47500,60000
+2024-04-16,Cabai Rawit Merah,Red Chilies,Jabodetabek,52084.91,45000,60000
+2024-04-17,Cabai Rawit Merah,Red Chilies,Jabodetabek,51896.55,45000,60000
+2024-04-18,Cabai Rawit Merah,Red Chilies,Jabodetabek,51363.64,45000,60000
+2024-04-19,Cabai Rawit Merah,Red Chilies,Jabodetabek,49963.64,40000,60000
+2024-04-20,Cabai Rawit Merah,Red Chilies,Jabodetabek,49829.27,45000,55000
+2024-04-21,Cabai Rawit Merah,Red Chilies,Jabodetabek,50025,45000,55000
+2024-04-22,Cabai Rawit Merah,Red Chilies,Jabodetabek,57730.77,45000,79500
+2024-04-23,Cabai Rawit Merah,Red Chilies,Jabodetabek,51576.92,45000,60000
+2024-04-24,Cabai Rawit Merah,Red Chilies,Jabodetabek,49689.19,45000,55000
+2024-04-25,Cabai Rawit Merah,Red Chilies,Jabodetabek,51719.51,47500,58000
+2024-04-26,Cabai Rawit Merah,Red Chilies,Jabodetabek,49962.5,45000,55000
+2024-04-27,Cabai Rawit Merah,Red Chilies,Jabodetabek,49708.33,45000,55000
+2024-04-28,Cabai Rawit Merah,Red Chilies,Jabodetabek,49814.81,45000,55000
+2024-04-29,Cabai Rawit Merah,Red Chilies,Jabodetabek,51670.73,45000,60000
+2024-04-30,Cabai Rawit Merah,Red Chilies,Jabodetabek,51000,45000,57500
+2024-05-01,Cabai Rawit Merah,Red Chilies,Jabodetabek,53223.68,47500,60000
+2024-05-02,Cabai Rawit Merah,Red Chilies,Jabodetabek,50273.81,45000,55000
+2024-05-03,Cabai Rawit Merah,Red Chilies,Jabodetabek,50000,45000,55000
+2024-05-04,Cabai Rawit Merah,Red Chilies,Jabodetabek,48423.08,42000,55000
+2024-05-05,Cabai Rawit Merah,Red Chilies,Jabodetabek,49600,45000,55000
+2024-05-06,Cabai Rawit Merah,Red Chilies,Jabodetabek,47441.86,40000,55000
+2024-05-07,Cabai Rawit Merah,Red Chilies,Jabodetabek,45434.78,40000,50000
+2024-05-08,Cabai Rawit Merah,Red Chilies,Jabodetabek,53100,40000,73200
+2024-05-09,Cabai Rawit Merah,Red Chilies,Jabodetabek,47678.57,40000,55000
+2024-05-10,Cabai Rawit Merah,Red Chilies,Jabodetabek,46220.93,40000,50000
+2024-05-11,Cabai Rawit Merah,Red Chilies,Jabodetabek,45833.33,40000,50000
+2024-05-12,Cabai Rawit Merah,Red Chilies,Jabodetabek,44689.66,35000,50000
+2024-05-13,Cabai Rawit Merah,Red Chilies,Jabodetabek,44836.96,40000,50000
+2024-05-14,Cabai Rawit Merah,Red Chilies,Jabodetabek,44911.11,40000,50000
+2024-05-15,Cabai Rawit Merah,Red Chilies,Jabodetabek,45744.44,40000,50000
+2024-05-16,Cabai Rawit Merah,Red Chilies,Jabodetabek,45614.58,40000,50000
+2024-05-17,Cabai Rawit Merah,Red Chilies,Jabodetabek,45829.55,40000,50000
+2024-05-18,Cabai Rawit Merah,Red Chilies,Jabodetabek,45656.25,40000,50000
+2024-05-19,Cabai Rawit Merah,Red Chilies,Jabodetabek,45750,40000,50000
+2024-05-20,Cabai Rawit Merah,Red Chilies,Jabodetabek,45366.67,40000,50000
+2024-05-21,Cabai Rawit Merah,Red Chilies,Jabodetabek,45277.78,40000,50000
+2024-05-22,Cabai Rawit Merah,Red Chilies,Jabodetabek,44883.72,40000,50000
+2024-05-23,Cabai Rawit Merah,Red Chilies,Jabodetabek,45282.61,40000,50000
+2024-05-24,Cabai Rawit Merah,Red Chilies,Jabodetabek,46954.55,40000,55000
+2024-05-25,Cabai Rawit Merah,Red Chilies,Jabodetabek,45666.67,40000,50000
+2024-05-26,Cabai Rawit Merah,Red Chilies,Jabodetabek,45483.87,40000,50000
+2024-05-27,Cabai Rawit Merah,Red Chilies,Jabodetabek,45055.56,40000,50000
+2024-05-28,Cabai Rawit Merah,Red Chilies,Jabodetabek,44125,40000,50000
+2024-05-29,Cabai Rawit Merah,Red Chilies,Jabodetabek,44461.54,40000,50000
+2024-05-30,Cabai Rawit Merah,Red Chilies,Jabodetabek,44553.19,40000,50000
+2024-05-31,Cabai Rawit Merah,Red Chilies,Jabodetabek,45093.02,40000,50000
+2024-06-01,Cabai Rawit Merah,Red Chilies,Jabodetabek,44870.97,40000,50000
+2024-06-02,Cabai Rawit Merah,Red Chilies,Jabodetabek,44718.75,40000,50000
+2024-06-03,Cabai Rawit Merah,Red Chilies,Jabodetabek,45467.39,40000,50000
+2024-06-04,Cabai Rawit Merah,Red Chilies,Jabodetabek,44617.65,40000,50000
+2024-06-05,Cabai Rawit Merah,Red Chilies,Jabodetabek,45010.87,40000,50000
+2024-06-06,Cabai Rawit Merah,Red Chilies,Jabodetabek,45112.24,40000,50000
+2024-06-07,Cabai Rawit Merah,Red Chilies,Jabodetabek,45423.91,40000,50000
+2024-06-09,Cabai Rawit Merah,Red Chilies,Jabodetabek,45852.94,40000,50000
+2024-06-10,Cabai Rawit Merah,Red Chilies,Jabodetabek,48000,45000,50000
+2024-06-11,Cabai Rawit Merah,Red Chilies,Jabodetabek,48323.53,45000,50000
+2024-06-12,Cabai Rawit Merah,Red Chilies,Jabodetabek,47812.5,45000,50000
+2024-06-13,Cabai Rawit Merah,Red Chilies,Jabodetabek,49988.75,45000,55000
+2024-06-14,Cabai Rawit Merah,Red Chilies,Jabodetabek,50001.32,45000,54950
+2024-06-15,Cabai Rawit Merah,Red Chilies,Jabodetabek,48391.3,45000,50000
+2024-06-16,Cabai Rawit Merah,Red Chilies,Jabodetabek,49461.54,48000,50000
+2024-06-17,Cabai Rawit Merah,Red Chilies,Jabodetabek,50228.79,45000,55000
+2024-06-18,Cabai Rawit Merah,Red Chilies,Jabodetabek,49931.43,45000,55000
+2024-06-19,Cabai Rawit Merah,Red Chilies,Jabodetabek,48208.33,45000,50000
+2024-06-20,Cabai Rawit Merah,Red Chilies,Jabodetabek,47285.71,42500,50000
+2024-06-21,Cabai Rawit Merah,Red Chilies,Jabodetabek,46575,40000,50000
+2024-06-22,Cabai Rawit Merah,Red Chilies,Jabodetabek,46000,40000,50000
+2024-06-23,Cabai Rawit Merah,Red Chilies,Jabodetabek,45750,40000,50000
+2024-06-24,Cabai Rawit Merah,Red Chilies,Jabodetabek,45012.5,40000,50000
+2024-06-25,Cabai Rawit Merah,Red Chilies,Jabodetabek,44000,40000,50000
+2024-06-26,Cabai Rawit Merah,Red Chilies,Jabodetabek,45113.64,40000,50000
+2024-06-27,Cabai Rawit Merah,Red Chilies,Jabodetabek,44536.59,40000,50000
+2024-06-28,Cabai Rawit Merah,Red Chilies,Jabodetabek,43780.49,40000,50000
+2024-06-29,Cabai Rawit Merah,Red Chilies,Jabodetabek,44080,40000,50000
+2024-06-30,Cabai Rawit Merah,Red Chilies,Jabodetabek,44148.15,40000,50000
+2024-07-01,Cabai Rawit Merah,Red Chilies,Jabodetabek,45453.49,40000,50000
+2024-07-02,Cabai Rawit Merah,Red Chilies,Jabodetabek,46325.58,42000,50000
+2024-07-03,Cabai Rawit Merah,Red Chilies,Jabodetabek,47644.74,45000,50000
+2024-07-04,Cabai Rawit Merah,Red Chilies,Jabodetabek,50150,45000,55000
+2024-07-05,Cabai Rawit Merah,Red Chilies,Jabodetabek,51928.57,50000,55000
+2024-07-06,Cabai Rawit Merah,Red Chilies,Jabodetabek,50185.19,45000,55000
+2024-07-07,Cabai Rawit Merah,Red Chilies,Jabodetabek,50166.67,45000,55000
+2024-07-08,Cabai Rawit Merah,Red Chilies,Jabodetabek,57475,56000,58450
+2024-01-01,Kentang,Potato,Jabodetabek,17162.16,16000,18000
+2024-01-02,Kentang,Potato,Jabodetabek,17139.53,16000,18000
+2024-01-03,Kentang,Potato,Jabodetabek,17386.36,16000,19000
+2024-01-04,Kentang,Potato,Jabodetabek,17121.95,16000,18000
+2024-01-05,Kentang,Potato,Jabodetabek,17904.76,16000,20000
+2024-01-06,Kentang,Potato,Jabodetabek,18113.64,16000,20000
+2024-01-07,Kentang,Potato,Jabodetabek,18613.64,17000,20000
+2024-01-09,Kentang,Potato,Jabodetabek,19000,17000,20000
+2024-01-10,Kentang,Potato,Jabodetabek,19659.09,17000,22000
+2024-01-11,Kentang,Potato,Jabodetabek,20044.44,18000,22000
+2024-01-12,Kentang,Potato,Jabodetabek,20666.67,20000,22000
+2024-01-13,Kentang,Potato,Jabodetabek,20622.22,20000,22000
+2024-01-14,Kentang,Potato,Jabodetabek,20093.02,18000,22000
+2024-01-15,Kentang,Potato,Jabodetabek,20800,20000,22000
+2024-01-16,Kentang,Potato,Jabodetabek,20707.32,18000,23000
+2024-01-17,Kentang,Potato,Jabodetabek,20186.05,18000,22000
+2024-01-18,Kentang,Potato,Jabodetabek,20727.27,20000,22000
+2024-01-19,Kentang,Potato,Jabodetabek,19704.55,17000,22000
+2024-01-20,Kentang,Potato,Jabodetabek,20000,18000,22000
+2024-01-21,Kentang,Potato,Jabodetabek,19476.19,18000,20000
+2024-01-22,Kentang,Potato,Jabodetabek,19380.95,18000,20000
+2024-01-23,Kentang,Potato,Jabodetabek,19500,18000,20000
+2024-01-24,Kentang,Potato,Jabodetabek,19422.22,18000,20000
+2024-01-25,Kentang,Potato,Jabodetabek,19409.09,18000,20000
+2024-01-26,Kentang,Potato,Jabodetabek,19347.83,18000,20000
+2024-01-27,Kentang,Potato,Jabodetabek,19395.35,18000,20000
+2024-01-28,Kentang,Potato,Jabodetabek,19317.07,18000,20000
+2024-01-29,Kentang,Potato,Jabodetabek,19372.09,18000,20000
+2024-01-30,Kentang,Potato,Jabodetabek,19377.78,18000,20000
+2024-01-31,Kentang,Potato,Jabodetabek,19380.95,18000,20000
+2024-02-01,Kentang,Potato,Jabodetabek,19113.64,17000,20000
+2024-02-02,Kentang,Potato,Jabodetabek,19363.64,18000,20000
+2024-02-03,Kentang,Potato,Jabodetabek,19409.09,18000,20000
+2024-02-04,Kentang,Potato,Jabodetabek,19466.67,18000,20000
+2024-02-05,Kentang,Potato,Jabodetabek,19452.38,18000,20000
+2024-02-06,Kentang,Potato,Jabodetabek,19465.12,18000,20000
+2024-02-07,Kentang,Potato,Jabodetabek,19931.82,18000,22000
+2024-02-09,Kentang,Potato,Jabodetabek,19976.74,18000,22000
+2024-02-10,Kentang,Potato,Jabodetabek,19410.26,18000,20000
+2024-02-11,Kentang,Potato,Jabodetabek,19256.41,18000,20000
+2024-02-12,Kentang,Potato,Jabodetabek,19275,18000,20000
+2024-02-13,Kentang,Potato,Jabodetabek,19309.52,18000,20000
+2024-02-14,Kentang,Potato,Jabodetabek,19323.53,18000,20000
+2024-02-15,Kentang,Potato,Jabodetabek,19268.29,18000,20000
+2024-02-16,Kentang,Potato,Jabodetabek,19857.14,18000,22000
+2024-02-17,Kentang,Potato,Jabodetabek,19317.07,18000,20000
+2024-02-18,Kentang,Potato,Jabodetabek,19268.29,18000,20000
+2024-02-19,Kentang,Potato,Jabodetabek,19261.9,18000,20000
+2024-02-20,Kentang,Potato,Jabodetabek,19302.33,18000,20000
+2024-02-21,Kentang,Potato,Jabodetabek,19431.82,18000,20000
+2024-02-22,Kentang,Potato,Jabodetabek,19357.14,18000,20000
+2024-02-23,Kentang,Potato,Jabodetabek,19428.57,18000,20000
+2024-02-24,Kentang,Potato,Jabodetabek,20000,20000,20000
+2024-02-25,Kentang,Potato,Jabodetabek,20000,20000,20000
+2024-02-26,Kentang,Potato,Jabodetabek,19441.86,18000,20000
+2024-02-27,Kentang,Potato,Jabodetabek,19955.56,18000,22000
+2024-02-28,Kentang,Potato,Jabodetabek,19909.09,18000,22000
+2024-02-29,Kentang,Potato,Jabodetabek,19348.84,18000,20000
+2024-03-01,Kentang,Potato,Jabodetabek,19953.49,18000,22000
+2024-03-02,Kentang,Potato,Jabodetabek,19333.33,18000,20000
+2024-03-03,Kentang,Potato,Jabodetabek,19904.76,18000,22000
+2024-03-04,Kentang,Potato,Jabodetabek,19137.93,18000,20000
+2024-03-05,Kentang,Potato,Jabodetabek,19926.83,18000,22000
+2024-03-06,Kentang,Potato,Jabodetabek,19261.9,18000,20000
+2024-03-07,Kentang,Potato,Jabodetabek,19292.68,18000,20000
+2024-03-09,Kentang,Potato,Jabodetabek,19292.68,18000,20000
+2024-03-10,Kentang,Potato,Jabodetabek,19868.42,18000,22000
+2024-03-11,Kentang,Potato,Jabodetabek,20000,18000,22000
+2024-03-12,Kentang,Potato,Jabodetabek,20225,18000,22000
+2024-03-13,Kentang,Potato,Jabodetabek,20119.05,18000,22000
+2024-03-14,Kentang,Potato,Jabodetabek,20023.26,18000,22000
+2024-03-15,Kentang,Potato,Jabodetabek,19977.27,18000,22000
+2024-03-16,Kentang,Potato,Jabodetabek,20025,18000,22000
+2024-03-17,Kentang,Potato,Jabodetabek,20023.81,18000,22000
+2024-03-18,Kentang,Potato,Jabodetabek,19886.36,18000,22000
+2024-03-19,Kentang,Potato,Jabodetabek,19853.66,18000,22000
+2024-03-20,Kentang,Potato,Jabodetabek,19853.66,18000,22000
+2024-03-21,Kentang,Potato,Jabodetabek,19209.3,18000,20000
+2024-03-22,Kentang,Potato,Jabodetabek,19255.81,18000,20000
+2024-03-23,Kentang,Potato,Jabodetabek,19219.51,18000,20000
+2024-03-24,Kentang,Potato,Jabodetabek,19317.07,18000,20000
+2024-03-25,Kentang,Potato,Jabodetabek,20000,18000,22000
+2024-03-26,Kentang,Potato,Jabodetabek,20000,18000,22000
+2024-03-27,Kentang,Potato,Jabodetabek,19829.27,18000,22000
+2024-03-28,Kentang,Potato,Jabodetabek,19923.08,18000,22000
+2024-03-29,Kentang,Potato,Jabodetabek,20000,18000,22000
+2024-03-30,Kentang,Potato,Jabodetabek,19948.72,18000,22000
+2024-03-31,Kentang,Potato,Jabodetabek,20375,18000,23000
+2024-04-01,Kentang,Potato,Jabodetabek,19975,18000,22000
+2024-04-02,Kentang,Potato,Jabodetabek,19926.83,18000,22000
+2024-04-03,Kentang,Potato,Jabodetabek,19300,18000,20000
+2024-04-04,Kentang,Potato,Jabodetabek,19871.79,18000,22000
+2024-04-05,Kentang,Potato,Jabodetabek,19975,18000,22000
+2024-04-06,Kentang,Potato,Jabodetabek,19925,18000,22000
+2024-04-07,Kentang,Potato,Jabodetabek,19975,18000,22000
+2024-04-12,Kentang,Potato,Jabodetabek,19926.83,18000,22000
+2024-04-13,Kentang,Potato,Jabodetabek,19975,18000,22000
+2024-04-14,Kentang,Potato,Jabodetabek,19926.83,18000,22000
+2024-04-15,Kentang,Potato,Jabodetabek,19975.61,18000,22000
+2024-04-16,Kentang,Potato,Jabodetabek,20075,18000,22000
+2024-04-17,Kentang,Potato,Jabodetabek,20250,18000,22000
+2024-04-18,Kentang,Potato,Jabodetabek,20500,19000,22000
+2024-04-19,Kentang,Potato,Jabodetabek,20119.05,18000,22000
+2024-04-20,Kentang,Potato,Jabodetabek,20365.85,19000,22000
+2024-04-21,Kentang,Potato,Jabodetabek,20450,19000,22000
+2024-04-23,Kentang,Potato,Jabodetabek,20346.15,19000,22000
+2024-04-24,Kentang,Potato,Jabodetabek,19740.74,19000,20000
+2024-04-25,Kentang,Potato,Jabodetabek,19724.14,19000,20000
+2024-04-26,Kentang,Potato,Jabodetabek,19444.44,18000,20000
+2024-04-27,Kentang,Potato,Jabodetabek,19458.33,18000,20000
+2024-04-28,Kentang,Potato,Jabodetabek,19740.74,19000,20000
+2024-04-29,Kentang,Potato,Jabodetabek,19392.86,18000,20000
+2024-04-30,Kentang,Potato,Jabodetabek,19392.86,18000,20000
+2024-05-01,Kentang,Potato,Jabodetabek,19400,18000,20000
+2024-05-02,Kentang,Potato,Jabodetabek,19965.52,18000,22000
+2024-05-03,Kentang,Potato,Jabodetabek,19206.9,18000,20000
+2024-05-04,Kentang,Potato,Jabodetabek,19269.23,18000,20000
+2024-05-05,Kentang,Potato,Jabodetabek,19320,18000,20000
+2024-05-06,Kentang,Potato,Jabodetabek,19258.06,18000,20000
+2024-05-07,Kentang,Potato,Jabodetabek,19303.03,18000,20000
+2024-05-09,Kentang,Potato,Jabodetabek,19344.83,18000,20000
+2024-05-10,Kentang,Potato,Jabodetabek,19166.67,18000,20000
+2024-05-11,Kentang,Potato,Jabodetabek,19300,18000,20000
+2024-05-12,Kentang,Potato,Jabodetabek,19206.9,18000,20000
+2024-05-13,Kentang,Potato,Jabodetabek,19303.03,18000,20000
+2024-05-14,Kentang,Potato,Jabodetabek,19343.75,18000,20000
+2024-05-15,Kentang,Potato,Jabodetabek,19322.58,18000,20000
+2024-05-16,Kentang,Potato,Jabodetabek,19342.86,18000,20000
+2024-05-17,Kentang,Potato,Jabodetabek,19258.06,18000,20000
+2024-05-18,Kentang,Potato,Jabodetabek,19218.75,18000,20000
+2024-05-19,Kentang,Potato,Jabodetabek,19250,18000,20000
+2024-05-20,Kentang,Potato,Jabodetabek,19312.5,18000,20000
+2024-05-21,Kentang,Potato,Jabodetabek,19312.5,18000,20000
+2024-05-22,Kentang,Potato,Jabodetabek,19366.67,18000,20000
+2024-05-23,Kentang,Potato,Jabodetabek,19363.64,18000,20000
+2024-05-24,Kentang,Potato,Jabodetabek,19677.42,19000,20000
+2024-05-25,Kentang,Potato,Jabodetabek,19366.67,18000,20000
+2024-05-26,Kentang,Potato,Jabodetabek,19387.1,18000,20000
+2024-05-27,Kentang,Potato,Jabodetabek,19406.25,18000,20000
+2024-05-28,Kentang,Potato,Jabodetabek,20354.84,19000,22000
+2024-05-29,Kentang,Potato,Jabodetabek,19965.52,18000,22000
+2024-05-30,Kentang,Potato,Jabodetabek,20617.65,20000,22000
+2024-05-31,Kentang,Potato,Jabodetabek,20000,19000,21000
+2024-06-01,Kentang,Potato,Jabodetabek,19741.94,19000,20000
+2024-06-02,Kentang,Potato,Jabodetabek,20343.75,19000,22000
+2024-06-03,Kentang,Potato,Jabodetabek,20363.64,19000,22000
+2024-06-04,Kentang,Potato,Jabodetabek,20394.74,19000,22000
+2024-06-05,Kentang,Potato,Jabodetabek,20805.56,20000,22000
+2024-06-06,Kentang,Potato,Jabodetabek,20805.56,20000,22000
+2024-06-07,Kentang,Potato,Jabodetabek,20939.39,20000,22000
+2024-06-09,Kentang,Potato,Jabodetabek,20529.41,19000,22000
+2024-06-10,Kentang,Potato,Jabodetabek,21176.47,20000,23000
+2024-06-11,Kentang,Potato,Jabodetabek,21318.18,20000,23000
+2024-06-12,Kentang,Potato,Jabodetabek,20800,20000,22000
+2024-06-13,Kentang,Potato,Jabodetabek,20814.81,20000,22000
+2024-06-14,Kentang,Potato,Jabodetabek,21000,20000,22000
+2024-06-15,Kentang,Potato,Jabodetabek,21086.96,20000,22000
+2024-06-16,Kentang,Potato,Jabodetabek,21192.31,20000,22000
+2024-06-17,Kentang,Potato,Jabodetabek,21500,20000,23000
+2024-06-18,Kentang,Potato,Jabodetabek,21545.45,20000,23000
+2024-06-19,Kentang,Potato,Jabodetabek,22269.23,20000,25000
+2024-06-20,Kentang,Potato,Jabodetabek,22040,20000,25000
+2024-06-21,Kentang,Potato,Jabodetabek,21333.33,20000,23000
+2024-06-22,Kentang,Potato,Jabodetabek,21962.96,20000,25000
+2024-06-23,Kentang,Potato,Jabodetabek,21791.67,20000,24000
+2024-06-24,Kentang,Potato,Jabodetabek,21629.63,20000,24000
+2024-06-25,Kentang,Potato,Jabodetabek,22571.43,20000,25000
+2024-06-26,Kentang,Potato,Jabodetabek,22483.87,20000,25000
+2024-06-27,Kentang,Potato,Jabodetabek,22777.78,20000,25000
+2024-06-28,Kentang,Potato,Jabodetabek,22642.86,20000,25000
+2024-06-29,Kentang,Potato,Jabodetabek,22640,20000,25000
+2024-06-30,Kentang,Potato,Jabodetabek,22925.93,20000,25000
+2024-07-01,Kentang,Potato,Jabodetabek,22633.33,20000,25000
+2024-07-02,Kentang,Potato,Jabodetabek,23533.33,22000,25000
+2024-07-03,Kentang,Potato,Jabodetabek,23642.86,22000,25000
+2024-07-04,Kentang,Potato,Jabodetabek,23466.67,22000,25000
+2024-07-05,Kentang,Potato,Jabodetabek,23172.41,22000,25000
+2024-07-06,Kentang,Potato,Jabodetabek,23259.26,22000,25000
+2024-07-07,Kentang,Potato,Jabodetabek,22666.67,21000,24000
+2024-01-01,Semangka,Watermelon,Jabodetabek,11233.33,10000,12000
+2024-01-02,Semangka,Watermelon,Jabodetabek,11393.94,10000,13000
+2024-01-03,Semangka,Watermelon,Jabodetabek,11333.33,10000,13000
+2024-01-04,Semangka,Watermelon,Jabodetabek,11322.58,10000,13000
+2024-01-05,Semangka,Watermelon,Jabodetabek,11354.84,10000,13000
+2024-01-06,Semangka,Watermelon,Jabodetabek,11382.35,10000,13000
+2024-01-07,Semangka,Watermelon,Jabodetabek,11424.24,10000,13000
+2024-01-09,Semangka,Watermelon,Jabodetabek,11424.24,10000,13000
+2024-01-10,Semangka,Watermelon,Jabodetabek,11125,10000,12000
+2024-01-11,Semangka,Watermelon,Jabodetabek,11228.57,10000,12000
+2024-01-12,Semangka,Watermelon,Jabodetabek,11176.47,10000,12000
+2024-01-13,Semangka,Watermelon,Jabodetabek,11171.43,10000,12000
+2024-01-14,Semangka,Watermelon,Jabodetabek,11147.06,10000,12000
+2024-01-15,Semangka,Watermelon,Jabodetabek,11600,10000,13000
+2024-01-16,Semangka,Watermelon,Jabodetabek,11250,10000,12000
+2024-01-17,Semangka,Watermelon,Jabodetabek,11500,10000,13000
+2024-01-18,Semangka,Watermelon,Jabodetabek,11176.47,10000,12000
+2024-01-19,Semangka,Watermelon,Jabodetabek,11181.82,10000,12000
+2024-01-20,Semangka,Watermelon,Jabodetabek,11593.75,10000,13000
+2024-01-21,Semangka,Watermelon,Jabodetabek,11558.82,10000,13000
+2024-01-22,Semangka,Watermelon,Jabodetabek,11545.45,10000,13000
+2024-01-23,Semangka,Watermelon,Jabodetabek,11617.65,10000,13000
+2024-01-24,Semangka,Watermelon,Jabodetabek,11542.86,10000,13000
+2024-01-25,Semangka,Watermelon,Jabodetabek,11588.24,10000,13000
+2024-01-26,Semangka,Watermelon,Jabodetabek,11600,10000,13000
+2024-01-27,Semangka,Watermelon,Jabodetabek,11600,10000,13000
+2024-01-28,Semangka,Watermelon,Jabodetabek,11484.85,10000,13000
+2024-01-29,Semangka,Watermelon,Jabodetabek,11666.67,10000,13000
+2024-01-30,Semangka,Watermelon,Jabodetabek,11441.18,10000,13000
+2024-01-31,Semangka,Watermelon,Jabodetabek,11656.25,10000,13000
+2024-02-01,Semangka,Watermelon,Jabodetabek,11575.76,10000,13000
+2024-02-02,Semangka,Watermelon,Jabodetabek,11575.76,10000,13000
+2024-02-03,Semangka,Watermelon,Jabodetabek,11647.06,10000,13000
+2024-02-04,Semangka,Watermelon,Jabodetabek,11617.65,10000,13000
+2024-02-05,Semangka,Watermelon,Jabodetabek,11735.29,10000,13000
+2024-02-06,Semangka,Watermelon,Jabodetabek,11588.24,10000,13000
+2024-02-07,Semangka,Watermelon,Jabodetabek,11647.06,10000,13000
+2024-02-09,Semangka,Watermelon,Jabodetabek,11647.06,10000,13000
+2024-02-10,Semangka,Watermelon,Jabodetabek,11709.68,10000,13000
+2024-02-11,Semangka,Watermelon,Jabodetabek,11700,10000,13000
+2024-02-12,Semangka,Watermelon,Jabodetabek,11687.5,10000,13000
+2024-02-13,Semangka,Watermelon,Jabodetabek,11687.5,10000,13000
+2024-02-14,Semangka,Watermelon,Jabodetabek,11615.38,10000,13000
+2024-02-15,Semangka,Watermelon,Jabodetabek,11750,10000,13000
+2024-02-16,Semangka,Watermelon,Jabodetabek,12030.3,11000,13000
+2024-02-17,Semangka,Watermelon,Jabodetabek,11781.25,10000,13000
+2024-02-18,Semangka,Watermelon,Jabodetabek,11625,10000,13000
+2024-02-19,Semangka,Watermelon,Jabodetabek,11712.12,10000,13000
+2024-02-20,Semangka,Watermelon,Jabodetabek,11867.65,10500,13000
+2024-02-21,Semangka,Watermelon,Jabodetabek,11691.18,10000,13000
+2024-02-22,Semangka,Watermelon,Jabodetabek,11640.63,10000,13000
+2024-02-23,Semangka,Watermelon,Jabodetabek,11833.33,10500,13000
+2024-02-24,Semangka,Watermelon,Jabodetabek,11681.82,10000,13000
+2024-02-25,Semangka,Watermelon,Jabodetabek,11693.55,10000,13000
+2024-02-26,Semangka,Watermelon,Jabodetabek,11609.38,10000,13000
+2024-02-27,Semangka,Watermelon,Jabodetabek,11560.61,10000,13000
+2024-02-28,Semangka,Watermelon,Jabodetabek,11560.61,10000,13000
+2024-02-29,Semangka,Watermelon,Jabodetabek,11484.38,10000,13000
+2024-03-01,Semangka,Watermelon,Jabodetabek,11633.33,10000,13000
+2024-03-02,Semangka,Watermelon,Jabodetabek,11596.77,10000,13000
+2024-03-03,Semangka,Watermelon,Jabodetabek,11532.26,10000,13000
+2024-03-04,Semangka,Watermelon,Jabodetabek,11695.65,10000,13000
+2024-03-05,Semangka,Watermelon,Jabodetabek,11578.13,10000,13000
+2024-03-06,Semangka,Watermelon,Jabodetabek,11671.88,10000,13000
+2024-03-07,Semangka,Watermelon,Jabodetabek,11671.88,10000,13000
+2024-03-09,Semangka,Watermelon,Jabodetabek,11661.29,10000,13000
+2024-03-10,Semangka,Watermelon,Jabodetabek,11568.97,10000,13000
+2024-03-11,Semangka,Watermelon,Jabodetabek,11650,10000,13000
+2024-03-12,Semangka,Watermelon,Jabodetabek,11790.32,10000,13000
+2024-03-13,Semangka,Watermelon,Jabodetabek,11640.63,10000,13000
+2024-03-14,Semangka,Watermelon,Jabodetabek,11671.87,10000,13000
+2024-03-15,Semangka,Watermelon,Jabodetabek,11651.52,10000,13000
+2024-03-16,Semangka,Watermelon,Jabodetabek,11640.63,10000,13000
+2024-03-17,Semangka,Watermelon,Jabodetabek,11703.13,10000,13000
+2024-03-18,Semangka,Watermelon,Jabodetabek,11661.76,10000,13000
+2024-03-19,Semangka,Watermelon,Jabodetabek,11650,10000,13000
+2024-03-20,Semangka,Watermelon,Jabodetabek,11683.33,10000,13000
+2024-03-21,Semangka,Watermelon,Jabodetabek,11621.21,10000,13000
+2024-03-22,Semangka,Watermelon,Jabodetabek,11560.61,10000,13000
+2024-03-23,Semangka,Watermelon,Jabodetabek,11672.41,10000,13000
+2024-03-24,Semangka,Watermelon,Jabodetabek,11725.81,10000,13000
+2024-03-25,Semangka,Watermelon,Jabodetabek,11640.63,10000,13000
+2024-03-26,Semangka,Watermelon,Jabodetabek,11725.81,10000,13000
+2024-03-27,Semangka,Watermelon,Jabodetabek,11833.33,10500,13000
+2024-03-28,Semangka,Watermelon,Jabodetabek,11862.07,10500,13000
+2024-03-29,Semangka,Watermelon,Jabodetabek,11750,10000,13000
+2024-03-30,Semangka,Watermelon,Jabodetabek,11655.17,10000,13000
+2024-03-31,Semangka,Watermelon,Jabodetabek,11677.42,10000,13000
+2024-04-01,Semangka,Watermelon,Jabodetabek,12000,11000,13000
+2024-04-02,Semangka,Watermelon,Jabodetabek,11625,10000,13000
+2024-04-03,Semangka,Watermelon,Jabodetabek,12181.82,11000,13000
+2024-04-04,Semangka,Watermelon,Jabodetabek,11600,10000,13000
+2024-04-05,Semangka,Watermelon,Jabodetabek,11677.42,10000,13000
+2024-04-06,Semangka,Watermelon,Jabodetabek,11625,10000,13000
+2024-04-07,Semangka,Watermelon,Jabodetabek,11677.42,10000,13000
+2024-04-12,Semangka,Watermelon,Jabodetabek,11625,10000,13000
+2024-04-13,Semangka,Watermelon,Jabodetabek,11612.9,10000,13000
+2024-04-14,Semangka,Watermelon,Jabodetabek,11625,10000,13000
+2024-04-15,Semangka,Watermelon,Jabodetabek,12000,11000,13000
+2024-04-16,Semangka,Watermelon,Jabodetabek,11733.33,10000,13000
+2024-04-17,Semangka,Watermelon,Jabodetabek,12166.67,11000,13000
+2024-04-18,Semangka,Watermelon,Jabodetabek,11727.27,10000,13000
+2024-04-19,Semangka,Watermelon,Jabodetabek,11718.75,10000,13000
+2024-04-20,Semangka,Watermelon,Jabodetabek,11645.16,10000,13000
+2024-04-21,Semangka,Watermelon,Jabodetabek,12066.67,11000,13000
+2024-04-23,Semangka,Watermelon,Jabodetabek,11650,11000,12000
+2024-04-24,Semangka,Watermelon,Jabodetabek,11350,10000,12000
+2024-04-25,Semangka,Watermelon,Jabodetabek,11304.35,10000,12000
+2024-04-26,Semangka,Watermelon,Jabodetabek,11285.71,10000,12000
+2024-04-27,Semangka,Watermelon,Jabodetabek,11315.79,10000,12000
+2024-04-28,Semangka,Watermelon,Jabodetabek,11636.36,11000,12000
+2024-04-29,Semangka,Watermelon,Jabodetabek,11363.64,10000,12000
+2024-04-30,Semangka,Watermelon,Jabodetabek,11333.33,10000,12000
+2024-05-01,Semangka,Watermelon,Jabodetabek,11684.21,11000,12000
+2024-05-02,Semangka,Watermelon,Jabodetabek,11727.27,11000,12000
+2024-05-03,Semangka,Watermelon,Jabodetabek,11695.65,11000,12000
+2024-05-04,Semangka,Watermelon,Jabodetabek,11333.33,10000,12000
+2024-05-05,Semangka,Watermelon,Jabodetabek,11368.42,10000,12000
+2024-05-06,Semangka,Watermelon,Jabodetabek,11304.35,10000,12000
+2024-05-07,Semangka,Watermelon,Jabodetabek,11333.33,10000,12000
+2024-05-09,Semangka,Watermelon,Jabodetabek,11280,10000,12000
+2024-05-10,Semangka,Watermelon,Jabodetabek,11250,10000,12000
+2024-05-11,Semangka,Watermelon,Jabodetabek,11640,10000,13000
+2024-05-12,Semangka,Watermelon,Jabodetabek,11260.87,10000,12000
+2024-05-13,Semangka,Watermelon,Jabodetabek,11346.15,10000,12000
+2024-05-14,Semangka,Watermelon,Jabodetabek,11360,10000,12000
+2024-05-15,Semangka,Watermelon,Jabodetabek,11960,11000,13000
+2024-05-16,Semangka,Watermelon,Jabodetabek,12000,11000,13000
+2024-05-17,Semangka,Watermelon,Jabodetabek,11625,10000,13000
+2024-05-18,Semangka,Watermelon,Jabodetabek,11280,10000,12000
+2024-05-19,Semangka,Watermelon,Jabodetabek,11227.27,10000,12000
+2024-05-20,Semangka,Watermelon,Jabodetabek,11640,10000,13000
+2024-05-21,Semangka,Watermelon,Jabodetabek,11625,10000,13000
+2024-05-22,Semangka,Watermelon,Jabodetabek,11608.7,10000,13000
+2024-05-23,Semangka,Watermelon,Jabodetabek,11615.38,10000,13000
+2024-05-24,Semangka,Watermelon,Jabodetabek,11600,10000,13000
+2024-05-25,Semangka,Watermelon,Jabodetabek,11521.74,10000,13000
+2024-05-26,Semangka,Watermelon,Jabodetabek,11625,10000,13000
+2024-05-27,Semangka,Watermelon,Jabodetabek,11600,10000,13000
+2024-05-28,Semangka,Watermelon,Jabodetabek,11500,10000,13000
+2024-05-29,Semangka,Watermelon,Jabodetabek,11476.19,10000,13000
+2024-05-30,Semangka,Watermelon,Jabodetabek,11520,10000,13000
+2024-05-31,Semangka,Watermelon,Jabodetabek,11130.43,10000,12000
+2024-06-01,Semangka,Watermelon,Jabodetabek,11608.7,10000,13000
+2024-06-02,Semangka,Watermelon,Jabodetabek,11541.67,10000,13000
+2024-06-03,Semangka,Watermelon,Jabodetabek,11680,10000,13000
+2024-06-04,Semangka,Watermelon,Jabodetabek,11586.21,10000,13000
+2024-06-05,Semangka,Watermelon,Jabodetabek,11444.44,10000,13000
+2024-06-06,Semangka,Watermelon,Jabodetabek,11111.11,10000,12000
+2024-06-07,Semangka,Watermelon,Jabodetabek,11541.67,10000,13000
+2024-06-09,Semangka,Watermelon,Jabodetabek,11153.85,10000,12000
+2024-06-10,Semangka,Watermelon,Jabodetabek,12384.62,12000,13000
+2024-06-11,Semangka,Watermelon,Jabodetabek,11705.88,10000,13000
+2024-06-12,Semangka,Watermelon,Jabodetabek,11619.05,10000,13000
+2024-06-13,Semangka,Watermelon,Jabodetabek,11833.33,10000,13000
+2024-06-14,Semangka,Watermelon,Jabodetabek,11812.5,10000,13000
+2024-06-15,Semangka,Watermelon,Jabodetabek,11812.5,10000,13000
+2024-06-16,Semangka,Watermelon,Jabodetabek,12500,12000,13000
+2024-06-17,Semangka,Watermelon,Jabodetabek,11875,10000,13000
+2024-06-18,Semangka,Watermelon,Jabodetabek,12142.86,11000,13000
+2024-06-19,Semangka,Watermelon,Jabodetabek,12166.67,11000,13000
+2024-06-20,Semangka,Watermelon,Jabodetabek,12117.65,11000,13000
+2024-06-21,Semangka,Watermelon,Jabodetabek,12052.63,11000,13000
+2024-06-22,Semangka,Watermelon,Jabodetabek,12166.67,11000,13000
+2024-06-23,Semangka,Watermelon,Jabodetabek,12187.5,11000,13000
+2024-06-24,Semangka,Watermelon,Jabodetabek,12111.11,11000,13000
+2024-06-25,Semangka,Watermelon,Jabodetabek,12150,11000,13000
+2024-06-26,Semangka,Watermelon,Jabodetabek,12045.45,11000,13000
+2024-06-27,Semangka,Watermelon,Jabodetabek,12100,11000,13000
+2024-06-28,Semangka,Watermelon,Jabodetabek,12000,11000,13000
+2024-06-29,Semangka,Watermelon,Jabodetabek,11687.5,10000,13000
+2024-06-30,Semangka,Watermelon,Jabodetabek,12105.26,11000,13000
+2024-07-01,Semangka,Watermelon,Jabodetabek,11750,10000,13000
+2024-07-02,Semangka,Watermelon,Jabodetabek,11800,10000,13000
+2024-07-03,Semangka,Watermelon,Jabodetabek,11789.47,10000,13000
+2024-07-04,Semangka,Watermelon,Jabodetabek,12100,11000,13000
+2024-07-05,Semangka,Watermelon,Jabodetabek,11684.21,10000,13000
+2024-07-06,Semangka,Watermelon,Jabodetabek,11789.47,10000,13000
+2024-07-07,Semangka,Watermelon,Jabodetabek,11850,10000,13000
